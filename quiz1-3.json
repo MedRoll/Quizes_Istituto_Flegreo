@@ -1,0 +1,242 @@
+[
+  {
+    "domanda": "L'informatica è la scienza che si occupa di conservare, organizzare e trasmettere dati attraverso la loro elaborazione.",
+    "risposte": [
+      "Vero",
+      "Falso"
+    ],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "La parte logica e intangibile di un computer (i programmi) è chiamata Hardware.",
+    "risposte": [
+      "Vero",
+      "Falso"
+    ],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "La CPU (Central Processing Unit) è comunemente considerata il 'cervello' del computer.",
+    "risposte": [
+      "Vero",
+      "Falso"
+    ],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "La RAM (Random Access Memory) viene utilizzata per la memorizzazione permanente dei dati, anche a computer spento.",
+    "risposte": [
+      "Vero",
+      "Falso"
+    ],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "La tastiera è un esempio di dispositivo di Output, poiché trasmette dati all'esterno.",
+    "risposte": [
+      "Vero",
+      "Falso"
+    ],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "Il codice binario è il linguaggio fondamentale del computer ed è basato esclusivamente sui simboli 0 e 1.",
+    "risposte": [
+      "Vero",
+      "Falso"
+    ],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "La funzione principale di un Sistema Operativo è la creazione di grafici e presentazioni.",
+    "risposte": [
+      "Vero",
+      "Falso"
+    ],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "I 'Vantaggi della Tecnologia' includono l'aumento dell'efficienza e il risparmio di tempo.",
+    "risposte": [
+      "Vero",
+      "Falso"
+    ],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Microsoft Word è l'applicativo ideale per la gestione di grandi quantità di dati numerici e la creazione di tabelle pivot.",
+    "risposte": [
+      "Vero",
+      "Falso"
+    ],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "La funzione 'CONCATENA' in Microsoft Excel serve a sommare i valori di più celle.",
+    "risposte": [
+      "Vero",
+      "Falso"
+    ],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "La combinazione di tasti CTRL + C è lo standard per incollare un testo copiato.",
+    "risposte": [
+      "Vero",
+      "Falso"
+    ],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "Il monitor è un dispositivo periferico di Output, in quanto mostra il risultato dell'elaborazione.",
+    "risposte": [
+      "Vero",
+      "Falso"
+    ],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Un videogioco 'Multi-piattaforma' è progettato per funzionare esclusivamente su un solo tipo di console.",
+    "risposte": [
+      "Vero",
+      "Falso"
+    ],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "Il 'Phishing' è una forma di truffa online volta a carpire informazioni personali ingannando l'utente.",
+    "risposte": [
+      "Vero",
+      "Falso"
+    ],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Verificare sempre le fonti delle informazioni online è un passo fondamentale per contrastare la disinformazione.",
+    "risposte": [
+      "Vero",
+      "Falso"
+    ],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Il termine 'Periferiche' indica esclusivamente i cavi di alimentazione del computer.",
+    "risposte": [
+      "Vero",
+      "Falso"
+    ],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "Il codice sorgente di un programma è il file eseguibile che l'utente utilizza per avviarlo.",
+    "risposte": [
+      "Vero",
+      "Falso"
+    ],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "La tecnologia ha un impatto positivo solo nel settore dell'ingegneria e non in quello della medicina o dell'istruzione.",
+    "risposte": [
+      "Vero",
+      "Falso"
+    ],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "L'utilizzo di un antivirus è l'unica misura di sicurezza necessaria quando si naviga in internet.",
+    "risposte": [
+      "Vero",
+      "Falso"
+    ],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "L'Open Source è un modello software che non permette a nessuno di visualizzare o modificare il codice sorgente.",
+    "risposte": [
+      "Vero",
+      "Falso"
+    ],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "Microsoft Excel è uno strumento efficace per l'analisi dei dati grazie alle sue formule matematiche e alle tabelle pivot.",
+    "risposte": [
+      "Vero",
+      "Falso"
+    ],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Un cavo HDMI è usato principalmente per la trasmissione di segnali audio e video di alta qualità.",
+    "risposte": [
+      "Vero",
+      "Falso"
+    ],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Per copiare un testo è necessario prima selezionarlo, ad esempio con il mouse o la combinazione SHIFT + FRECCIE DIREZIONALI.",
+    "risposte": [
+      "Vero",
+      "Falso"
+    ],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Il comprotamento responsabile e il rispetto delle norme rientrano nell'uso etico delle tecnologie.",
+    "risposte": [
+      "Vero",
+      "Falso"
+    ],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Un Hard Disk (HDD) è un tipo di memoria volatile, i cui dati vengono persi se il computer viene spento.",
+    "risposte": [
+      "Vero",
+      "Falso"
+    ],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "La 'Disinformazione' consiste nella diffusione intenzionale di notizie false o parziali.",
+    "risposte": [
+      "Vero",
+      "Falso"
+    ],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Uno dei rischi legati ai Social Media è l'eccessiva e inconsapevole condivisione di dati personali.",
+    "risposte": [
+      "Vero",
+      "Falso"
+    ],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Microsoft PowerPoint è il software più indicato per creare e gestire la posta elettronica.",
+    "risposte": [
+      "Vero",
+      "Falso"
+    ],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "La componente Hard del termine Hardware si riferisce ai componenti fisici che è possibile toccare.",
+    "risposte": [
+      "Vero",
+      "Falso"
+    ],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "I comandi da tastiera come CTRL + C rimangono sempre gli stessi, indipendentemente dalla lingua impostata sulla tastiera.",
+    "risposte": [
+      "Vero",
+      "Falso"
+    ],
+    "corretta": "Falso"
+  }
+]
