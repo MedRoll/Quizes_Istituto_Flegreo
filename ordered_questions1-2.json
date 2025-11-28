@@ -1,0 +1,272 @@
+[
+  {
+    "domanda": "Qual è la definizione corretta di Informatica?",
+    "risposte": [
+      "La scienza che studia solo la riparazione dei computer",
+      "La scienza che si occupa di conservare, organizzare e trasmettere dati attraverso la loro elaborazione",
+      "La disciplina che insegna esclusivamente a scrivere codice di programmazione"
+    ],
+    "corretta": "La scienza che si occupa di conservare, organizzare e trasmettere dati attraverso la loro elaborazione"
+  },
+  {
+    "domanda": "Qual è la differenza principale tra Hardware e Software?",
+    "risposte": [
+      "L'hardware è la parte fisica del computer, mentre il software è la parte logica (programmi)",
+      "L'hardware sono i programmi, mentre il software sono i cavi",
+      "Non c'è alcuna differenza, sono sinonimi"
+    ],
+    "corretta": "L'hardware è la parte fisica del computer, mentre il software è la parte logica (programmi)"
+  },
+  {
+    "domanda": "Quale componente è considerato il 'cervello' del computer?",
+    "risposte": [
+      "L'Hard Disk",
+      "La CPU (Central Processing Unit)",
+      "La stampante"
+    ],
+    "corretta": "La CPU (Central Processing Unit)"
+  },
+  {
+    "domanda": "A cosa serve la memoria RAM?",
+    "risposte": [
+      "A conservare i dati in modo permanente anche a computer spento",
+      "A contenere temporaneamente le istruzioni e i dati che la CPU sta elaborando",
+      "A raffreddare il processore"
+    ],
+    "corretta": "A contenere temporaneamente le istruzioni e i dati che la CPU sta elaborando"
+  },
+  {
+    "domanda": "Quale dei seguenti è un dispositivo di Input?",
+    "risposte": [
+      "Monitor",
+      "Stampante",
+      "Tastiera"
+    ],
+    "corretta": "Tastiera"
+  },
+  {
+    "domanda": "Qual è la funzione di un dispositivo di Output?",
+    "risposte": [
+      "Permettere al computer di restituire i risultati dell'elaborazione all'utente",
+      "Inserire dati nel computer",
+      "Elaborare i calcoli matematici"
+    ],
+    "corretta": "Permettere al computer di restituire i risultati dell'elaborazione all'utente"
+  },
+  {
+    "domanda": "Cosa si intende per 'Phishing'?",
+    "risposte": [
+      "Un software per modificare le foto",
+      "Una truffa online per ingannare gli utenti e ottenere informazioni personali",
+      "Un tipo di pesca sportiva digitale"
+    ],
+    "corretta": "Una truffa online per ingannare gli utenti e ottenere informazioni personali"
+  },
+  {
+    "domanda": "Qual è la differenza tra cavo USB e cavo HDMI?",
+    "risposte": [
+      "L'USB trasmette dati e corrente, l'HDMI trasmette segnali audio e video di alta qualità",
+      "L'HDMI serve per collegare il mouse, l'USB per la TV",
+      "Sono identici e intercambiabili"
+    ],
+    "corretta": "L'USB trasmette dati e corrente, l'HDMI trasmette segnali audio e video di alta qualità"
+  },
+  {
+    "domanda": "Cosa indica il termine 'Software Open Source'?",
+    "risposte": [
+      "Un software che non può essere mai modificato",
+      "Un software a pagamento senza licenza",
+      "Un software il cui codice sorgente è reso disponibile per essere studiato e modificato"
+    ],
+    "corretta": "Un software il cui codice sorgente è reso disponibile per essere studiato e modificato"
+  },
+  {
+    "domanda": "Quale combinazione di tasti si usa solitamente per 'Copiare' un testo?",
+    "risposte": [
+      "CTRL + V",
+      "CTRL + C",
+      "CTRL + P"
+    ],
+    "corretta": "CTRL + C"
+  },
+  {
+    "domanda": "Che cos'è un Sistema Operativo?",
+    "risposte": [
+      "Un programma che gestisce le risorse hardware e permette l'esecuzione degli applicativi",
+      "Un componente fisico del computer",
+      "Un'applicazione per scrivere documenti"
+    ],
+    "corretta": "Un programma che gestisce le risorse hardware e permette l'esecuzione degli applicativi"
+  },
+  {
+    "domanda": "Quale tra questi è un esempio di foglio di calcolo?",
+    "risposte": [
+      "Microsoft Word",
+      "Microsoft Excel",
+      "Microsoft PowerPoint"
+    ],
+    "corretta": "Microsoft Excel"
+  },
+  {
+    "domanda": "A cosa serve la funzione CONCATENA in Excel?",
+    "risposte": [
+      "A sommare una colonna di numeri",
+      "A unire dati presenti in celle diverse in un'unica cella",
+      "A cancellare i dati duplicati"
+    ],
+    "corretta": "A unire dati presenti in celle diverse in un'unica cella"
+  },
+  {
+    "domanda": "Cosa si intende per 'codice binario'?",
+    "risposte": [
+      "Un linguaggio basato sulle lettere dell'alfabeto",
+      "Un linguaggio usato dai computer basato su due simboli: 0 e 1",
+      "Il codice segreto per accedere a internet"
+    ],
+    "corretta": "Un linguaggio usato dai computer basato su due simboli: 0 e 1"
+  },
+  {
+    "domanda": "Qual è uno dei principali rischi legati alla privacy sui social media?",
+    "risposte": [
+      "La condivisione eccessiva di informazioni personali",
+      "Il costo dell'abbonamento mensile",
+      "La bassa qualità delle immagini"
+    ],
+    "corretta": "La condivisione eccessiva di informazioni personali"
+  },
+  {
+    "domanda": "Cos'è il 'codice sorgente' di un programma?",
+    "risposte": [
+      "Il file eseguibile .exe che l'utente clicca",
+      "Il testo scritto dal programmatore in un linguaggio di programmazione",
+      "Il manuale di istruzioni del computer"
+    ],
+    "corretta": "Il testo scritto dal programmatore in un linguaggio di programmazione"
+  },
+  {
+    "domanda": "Qual è il compito di un 'Compilatore'?",
+    "risposte": [
+      "Stampare i documenti cartacei",
+      "Trasformare il codice sorgente in linguaggio macchina eseguibile dal computer",
+      "Creare grafici in Excel"
+    ],
+    "corretta": "Trasformare il codice sorgente in linguaggio macchina eseguibile dal computer"
+  },
+  {
+    "domanda": "Quale dei seguenti NON è un dispositivo di memorizzazione?",
+    "risposte": [
+      "Hard Disk",
+      "Processore (CPU)",
+      "Chiavetta USB"
+    ],
+    "corretta": "Processore (CPU)"
+  },
+  {
+    "domanda": "Cosa si intende per 'Disinformazione' online?",
+    "risposte": [
+      "La diffusione di notizie false o parziali che distorcono la realtà",
+      "L'assenza di connessione internet",
+      "L'utilizzo di un antivirus scaduto"
+    ],
+    "corretta": "La diffusione di notizie false o parziali che distorcono la realtà"
+  },
+  {
+    "domanda": "Quale software della suite Office è ideale per creare presentazioni visive?",
+    "risposte": [
+      "Microsoft Word",
+      "Microsoft Outlook",
+      "Microsoft PowerPoint"
+    ],
+    "corretta": "Microsoft PowerPoint"
+  },
+  {
+    "domanda": "Come si definisce un videogioco 'Multi-piattaforma'?",
+    "risposte": [
+      "Un gioco che funziona solo su PC",
+      "Un gioco progettato per essere giocato sia su PC che su Console",
+      "Un gioco che richiede più schermi"
+    ],
+    "corretta": "Un gioco progettato per essere giocato sia su PC che su Console"
+  },
+  {
+    "domanda": "Quale tra questi è un esempio di 'dispositivo di Input/Output'?",
+    "risposte": [
+      "Schermo Touchscreen",
+      "Mouse",
+      "Stampante classica"
+    ],
+    "corretta": "Schermo Touchscreen"
+  },
+  {
+    "domanda": "Perché è importante verificare le fonti delle informazioni online?",
+    "risposte": [
+      "Per evitare di scaricare virus",
+      "Per discernere le notizie affidabili dalle fake news",
+      "Per risparmiare traffico dati"
+    ],
+    "corretta": "Per discernere le notizie affidabili dalle fake news"
+  },
+  {
+    "domanda": "Quale combinazione di tasti serve per incollare un testo copiato?",
+    "risposte": [
+      "CTRL + V",
+      "CTRL + C",
+      "CTRL + Z"
+    ],
+    "corretta": "CTRL + V"
+  },
+  {
+    "domanda": "Cosa indica il termine 'Periferiche'?",
+    "risposte": [
+      "Solo i cavi di alimentazione",
+      "Le unità fisiche collegate al computer (come mouse, tastiera, stampante)",
+      "I programmi installati nel computer"
+    ],
+    "corretta": "Le unità fisiche collegate al computer (come mouse, tastiera, stampante)"
+  },
+  {
+    "domanda": "Quale di questi è un Sistema Operativo per dispositivi mobili?",
+    "risposte": [
+      "Windows 95",
+      "Android",
+      "Excel"
+    ],
+    "corretta": "Android"
+  },
+  {
+    "domanda": "Qual è il principale vantaggio della tecnologia secondo le dispense?",
+    "risposte": [
+      "Aumenta il costo della vita",
+      "Fa risparmiare tempo e aumenta l'efficienza",
+      "Rende più difficile trovare informazioni"
+    ],
+    "corretta": "Fa risparmiare tempo e aumenta l'efficienza"
+  },
+  {
+    "domanda": "Cosa identifica il termine 'Soft' nella parola Software?",
+    "risposte": [
+      "Che il componente è soffice al tatto",
+      "Le componenti logiche e intangibili del PC che non si possono toccare",
+      "Che il programma è facile da usare"
+    ],
+    "corretta": "Le componenti logiche e intangibili del PC che non si possono toccare"
+  },
+  {
+    "domanda": "A cosa serve Microsoft Outlook?",
+    "risposte": [
+      "A gestire le email e il calendario",
+      "A fare calcoli matematici complessi",
+      "A modificare le foto delle vacanze"
+    ],
+    "corretta": "A gestire le email e il calendario"
+  },
+  {
+    "domanda": "Quale comportamento rientra nell'uso etico delle tecnologie?",
+    "risposte": [
+      "Condividere notizie senza verificarle",
+      "Rispettare le norme e comportarsi in modo responsabile online",
+      "Utilizzare software piratati"
+    ],
+    "corretta": "Rispettare le norme e comportarsi in modo responsabile online"
+  }
+]
