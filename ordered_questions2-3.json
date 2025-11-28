@@ -1,0 +1,242 @@
+[
+  {
+    "domanda": "Internet è l'interconnessione globale tra reti, resa possibile dalla suite di protocolli TCP/IP.",
+    "risposte": [
+      "Vero",
+      "Falso"
+    ],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Il termine Internet nasce come abbreviazione di 'intra network'.",
+    "risposte": [
+      "Vero",
+      "Falso"
+    ],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "Il World Wide Web (WWW) è esattamente la stessa cosa di Internet; i due termini sono sinonimi in ambito specialistico.",
+    "risposte": [
+      "Vero",
+      "Falso"
+    ],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "L'avvento di Internet è stata una rivoluzione tecnologica e socio-culturale dagli inizi degli anni duemila.",
+    "risposte": [
+      "Vero",
+      "Falso"
+    ],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "Un motore di ricerca classifica i contenuti disponibili in base a formule statistico-matematiche che ne indicano il grado di rilevanza.",
+    "risposte": [
+      "Vero",
+      "Falso"
+    ],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Il browser è un sito web che si usa per cercare informazioni su Internet.",
+    "risposte": [
+      "Vero",
+      "Falso"
+    ],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "Google Chrome è un motore di ricerca, mentre Google è un browser.",
+    "risposte": [
+      "Vero",
+      "Falso"
+    ],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "Il primo controllo che si può fare per assicurarsi che un sito web sia sicuro è cercare il nome del dominio su Google.",
+    "risposte": [
+      "Vero",
+      "Falso"
+    ],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "L'uso dell'operatore 'site:' nel campo di ricerca Google serve a trovare tutte le pagine indicizzate di quel dominio.",
+    "risposte": [
+      "Vero",
+      "Falso"
+    ],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Il Tag Title è il codice HTML utilizzato per strutturare il contenuto della pagina.",
+    "risposte": [
+      "Vero",
+      "Falso"
+    ],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "Il protocollo **HTTPS** indica che la trasmissione dei dati sul web è crittografata e protetta.",
+    "risposte": [
+      "Vero",
+      "Falso"
+    ],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "L'assenza del certificato SSL (e quindi l'uso di solo HTTP) su un sito è ormai una condizione difficile da riscontrare.",
+    "risposte": [
+      "Vero",
+      "Falso"
+    ],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "I siti web di una società sono obbligati a comunicare Partita IVA e Sede Legale.",
+    "risposte": [
+      "Vero",
+      "Falso"
+    ],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Un indirizzo email permette di inviare messaggi anche a più persone contemporaneamente.",
+    "risposte": [
+      "Vero",
+      "Falso"
+    ],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Uno svantaggio della posta elettronica ordinaria è la possibilità di ricevere messaggi pubblicitari indesiderati chiamati **spam**.",
+    "risposte": [
+      "Vero",
+      "Falso"
+    ],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "La parte prima della chiocciola (@) in un indirizzo email si chiama dominio.",
+    "risposte": [
+      "Vero",
+      "Falso"
+    ],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "Il campo 'Oggetto' in una mail serve per indicare lo scopo del messaggio.",
+    "risposte": [
+      "Vero",
+      "Falso"
+    ],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Il campo **CCN** (Copia Conoscenza Nascosta) è identico al campo **CC** (Copia Conoscenza) in ogni sua funzione.",
+    "risposte": [
+      "Vero",
+      "Falso"
+    ],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "La PEC (Posta Elettronica Certificata) garantisce la prova dell'invio e della consegna del messaggio.",
+    "risposte": [
+      "Vero",
+      "Falso"
+    ],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "L'indirizzo PEC delle imprese e dei professionisti non è rintracciabile gratuitamente online.",
+    "risposte": [
+      "Vero",
+      "Falso"
+    ],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "Dal 2024 è iniziata la transizione dalla PEC alla Registered Electronic Mail, standard europeo.",
+    "risposte": [
+      "Vero",
+      "Falso"
+    ],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "In caso di smarrimento, è possibile disporre di una traccia informatica della ricevuta PEC con lo stesso valore legale per un periodo di trenta mesi.",
+    "risposte": [
+      "Vero",
+      "Falso"
+    ],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "La PEC verifica l'identità del mittente e del destinatario in modo nativo (senza l'uso di SPID).",
+    "risposte": [
+      "Vero",
+      "Falso"
+    ],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "La validità della PEC è riconosciuta come standard internazionale in tutti i paesi dell'Unione Europea.",
+    "risposte": [
+      "Vero",
+      "Falso"
+    ],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "L'eventuale destinatario non PEC, pur ricevendo correttamente un messaggio da una PEC, genera avvisi con valore legale.",
+    "risposte": [
+      "Vero",
+      "Falso"
+    ],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "La PEC offre maggiori garanzie legali della raccomandata A/R perché certifica anche la data con la marca temporale e il contenuto con la firma digitale.",
+    "risposte": [
+      "Vero",
+      "Falso"
+    ],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Le ricevute di consegna PEC hanno piena validità legale, anche se il messaggio non è stato letto dal destinatario.",
+    "risposte": [
+      "Vero",
+      "Falso"
+    ],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "È possibile inviare messaggi PEC illimitati una volta pagato il canone annuale del servizio.",
+    "risposte": [
+      "Vero",
+      "Falso"
+    ],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "La comunicazione ha valore legale solo se avviene tra caselle PEC, se il destinatario è un'email standard non c'è certezza della consegna.",
+    "risposte": [
+      "Vero",
+      "Falso"
+    ],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Se la casella PEC del destinatario è piena, il mittente non riceverà alcuna notifica di errore.",
+    "risposte": [
+      "Vero",
+      "Falso"
+    ],
+    "corretta": "Falso"
+  }
+]

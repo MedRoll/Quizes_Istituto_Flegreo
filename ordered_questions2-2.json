@@ -1,0 +1,302 @@
+[
+  {
+    "domanda": "Con quale protocollo specifico si è sviluppato il World Wide Web (WWW) a partire dal 1991?",
+    "risposte": [
+      "FTP",
+      "SMTP",
+      "HTTP",
+      "TCP/IP"
+    ],
+    "corretta": "HTTP"
+  },
+  {
+    "domanda": "Qual è il nome della suite di protocolli di rete comune che rende possibile l'interconnessione globale di Internet?",
+    "risposte": [
+      "HTML/CSS",
+      "TCP/IP",
+      "WWW/HTTP",
+      "POP/IMAP"
+    ],
+    "corretta": "TCP/IP"
+  },
+  {
+    "domanda": "Nel linguaggio comune, il termine Internet viene spesso confuso con quale altro termine?",
+    "risposte": [
+      "Intranet",
+      "World Wide Web (WWW)",
+      "LAN",
+      "Extranet"
+    ],
+    "corretta": "World Wide Web (WWW)"
+  },
+  {
+    "domanda": "Cos'è un **motore di ricerca** (search engine) in ambito Internet?",
+    "risposte": [
+      "L'applicazione usata per visualizzare i siti web",
+      "Un sistema automatico che analizza i dati e restituisce un indice classificato in base alla rilevanza",
+      "Un tipo di cavo di rete ad alta velocità",
+      "Un protocollo per la sicurezza dei dati"
+    ],
+    "corretta": "Un sistema automatico che analizza i dati e restituisce un indice classificato in base alla rilevanza"
+  },
+  {
+    "domanda": "Qual è la funzione principale del **browser**?",
+    "risposte": [
+      "Catalogare i siti web disponibili su Internet",
+      "Cercare informazioni in base a una chiave di ricerca",
+      "Gestire la comunicazione con i server per comporre la pagina web nel modo giusto",
+      "Inviare e ricevere messaggi di posta elettronica"
+    ],
+    "corretta": "Gestire la comunicazione con i server per comporre la pagina web nel modo giusto"
+  },
+  {
+    "domanda": "Quale tra i seguenti è un esempio di **browser**?",
+    "risposte": [
+      "Google",
+      "Bing",
+      "DuckDuckGo",
+      "Chrome"
+    ],
+    "corretta": "Chrome"
+  },
+  {
+    "domanda": "Quale tra i seguenti è un esempio di **motore di ricerca**?",
+    "risposte": [
+      "Safari",
+      "Firefox",
+      "Edge",
+      "Yandex"
+    ],
+    "corretta": "Yandex"
+  },
+  {
+    "domanda": "Qual è la differenza fondamentale tra Google e Google Chrome?",
+    "risposte": [
+      "Google è il browser e Google Chrome è il motore di ricerca",
+      "Google è un motore di ricerca e Google Chrome è un browser",
+      "Sono entrambi motori di ricerca con nomi diversi",
+      "Sono entrambi browser sviluppati da Microsoft"
+    ],
+    "corretta": "Google è un motore di ricerca e Google Chrome è un browser"
+  },
+  {
+    "domanda": "Qual è il significato del termine **email** (o e-mail)?",
+    "risposte": [
+      "Electronic Messaging",
+      "Electronic Mail",
+      "Enterprise Mail",
+      "Encrypted Mail"
+    ],
+    "corretta": "Electronic Mail"
+  },
+  {
+    "domanda": "Qual è lo scopo principale del campo **CC** (Copia Conoscenza) in un messaggio di posta elettronica?",
+    "risposte": [
+      "Nascondere l'indirizzo del destinatario principale",
+      "Indicare lo scopo o il motivo del messaggio",
+      "Inviare il messaggio ad altri destinatari anche se non sono i diretti interessati",
+      "Inviare il messaggio solo al destinatario principale"
+    ],
+    "corretta": "Inviare il messaggio ad altri destinatari anche se non sono i diretti interessati"
+  },
+  {
+    "domanda": "Qual è il principale vantaggio di usare il campo **CCN** (Copia Conoscenza Nascosta)?",
+    "risposte": [
+      "Garantire la validità legale del messaggio",
+      "Nascondere gli indirizzi agli altri destinatari",
+      "Allegare file di grandi dimensioni",
+      "Certificare l'identità del mittente"
+    ],
+    "corretta": "Nascondere gli indirizzi agli altri destinatari"
+  },
+  {
+    "domanda": "Quale simbolo separa lo username dal dominio in un indirizzo email?",
+    "risposte": [
+      "# (cancelletto)",
+      "@ (chiocciola)",
+      ": (due punti)",
+      "/ (slash)"
+    ],
+    "corretta": "@ (chiocciola)"
+  },
+  {
+    "domanda": "In Italia, la **PEC** (Posta Elettronica Certificata) conferisce al messaggio lo stesso valore legale di cosa?",
+    "risposte": [
+      "Una telefonata registrata",
+      "Un fax con conferma di ricezione",
+      "Una raccomandata con avviso di ricevimento",
+      "Un SMS certificato"
+    ],
+    "corretta": "Una raccomandata con avviso di ricevimento"
+  },
+  {
+    "domanda": "Quale organo pubblico è demandato alla vigilanza e al coordinamento dei gestori PEC in Italia?",
+    "risposte": [
+      "AGCOM",
+      "AGID (Agenzia per l'Italia Digitale)",
+      "Garante Privacy",
+      "ANAC"
+    ],
+    "corretta": "AGID (Agenzia per l'Italia Digitale)"
+  },
+  {
+    "domanda": "Cosa garantisce al mittente la **ricevuta di accettazione** inviata dal gestore PEC?",
+    "risposte": [
+      "La lettura del messaggio da parte del destinatario",
+      "La prova dell'invio con precisa indicazione temporale",
+      "La firma digitale del contenuto del messaggio",
+      "Che il destinatario abbia una casella non piena"
+    ],
+    "corretta": "La prova dell'invio con precisa indicazione temporale"
+  },
+  {
+    "domanda": "Qual è uno dei principali **svantaggi** della PEC, soprattutto in ambito internazionale?",
+    "risposte": [
+      "Non può inviare allegati",
+      "Non offre la prova dell'invio",
+      "La sua validità è limitata al territorio italiano (non è uno standard internazionale)",
+      "È un servizio completamente gratuito"
+    ],
+    "corretta": "La sua validità è limitata al territorio italiano (non è uno standard internazionale)"
+  },
+  {
+    "domanda": "Cosa si intende per **Snippet** nei risultati di un motore di ricerca?",
+    "risposte": [
+      "L'indirizzo web (URL) del sito",
+      "Una breve descrizione del contenuto della pagina web",
+      "Il codice HTML completo della pagina",
+      "Il nome del browser utilizzato"
+    ],
+    "corretta": "Una breve descrizione del contenuto della pagina web"
+  },
+  {
+    "domanda": "Per verificare se un sito è sicuro, quale protocollo dovrebbe essere presente nell'indirizzo?",
+    "risposte": [
+      "HTTP",
+      "HTTPS",
+      "FTP",
+      "POP3"
+    ],
+    "corretta": "HTTPS"
+  },
+  {
+    "domanda": "L'**operatore site:** su Google serve a:",
+    "risposte": [
+      "Cercare il nome del dominio su altri siti di recensioni",
+      "Controllare l'attività di eventuali malware e siti 'bucati'",
+      "Elencare tutte le pagine che Google ha indicizzato per quel dominio",
+      "Acquistare un certificato SSL"
+    ],
+    "corretta": "Elencare tutte le pagine che Google ha indicizzato per quel dominio"
+  },
+  {
+    "domanda": "Cos'è il **codice malevolo**?",
+    "risposte": [
+      "Un linguaggio di programmazione obsoleto",
+      "Un software creato per danneggiare o violare sistemi informatici",
+      "Il codice sorgente di un browser",
+      "Una chiave di ricerca troppo lunga"
+    ],
+    "corretta": "Un software creato per danneggiare o violare sistemi informatici"
+  },
+  {
+    "domanda": "Quale tipo di memoria del computer è la RAM?",
+    "risposte": [
+      "Memoria di Massa",
+      "Memoria Volatile",
+      "Memoria Permanente",
+      "Memoria di Sola Lettura"
+    ],
+    "corretta": "Memoria Volatile"
+  },
+  {
+    "domanda": "Quale dei seguenti è un rischio associato all'uso della posta elettronica non certificata?",
+    "risposte": [
+      "Impossibilità di allegare file",
+      "Ricevere messaggi pubblicitari indesiderati (spam)",
+      "La mancanza di un oggetto",
+      "L'uso obbligatorio di un client di posta"
+    ],
+    "corretta": "Ricevere messaggi pubblicitari indesiderati (spam)"
+  },
+  {
+    "domanda": "Cosa si intende per **Netiquette** dell’email?",
+    "risposte": [
+      "Un protocollo di sicurezza per la PEC",
+      "L'obbligo di usare solo Gmail",
+      "L'insieme delle regole di buon comportamento nell'uso della posta elettronica",
+      "Una funzione per l'autenticazione a due fattori"
+    ],
+    "corretta": "L'insieme delle regole di buon comportamento nell'uso della posta elettronica"
+  },
+  {
+    "domanda": "La parte di un indirizzo email dopo il simbolo **@** è chiamata:",
+    "risposte": [
+      "Username",
+      "Client",
+      "Dominio",
+      "Protocollo"
+    ],
+    "corretta": "Dominio"
+  },
+  {
+    "domanda": "La transizione dalla PEC allo standard europeo Registered Electronic Mail prevede l'autenticazione a due fattori e la certificazione dell'identità mediante:",
+    "risposte": [
+      "Un'email ordinaria",
+      "Un numero di telefono fisso",
+      "SPID o Carta d'Identità Elettronica",
+      "La ricezione di una raccomandata cartacea"
+    ],
+    "corretta": "SPID o Carta d'Identità Elettronica"
+  },
+  {
+    "domanda": "Quale informazione legale **non** è obbligatoria essere comunicata sul sito Internet di una società?",
+    "risposte": [
+      "Ragione Sociale",
+      "Sede Legale",
+      "Numero di telefono privato dell'amministratore",
+      "Partita IVA"
+    ],
+    "corretta": "Numero di telefono privato dell'amministratore"
+  },
+  {
+    "domanda": "Qual è il periodo di tempo minimo per cui i gestori PEC sono obbligati ad archiviare tutti gli eventi associati a invii e ricezioni di messaggi PEC?",
+    "risposte": [
+      "Sei mesi",
+      "Un anno",
+      "Trenta mesi",
+      "Dieci anni"
+    ],
+    "corretta": "Trenta mesi"
+  },
+  {
+    "domanda": "Un indirizzo PEC non si differenzia da una normale casella di posta elettronica dal punto di vista dell'utente per:",
+    "risposte": [
+      "Il valore legale del messaggio",
+      "Il meccanismo di comunicazione sottostante",
+      "La presenza di ricevute automatiche",
+      "L'interfaccia e le funzionalità di base"
+    ],
+    "corretta": "L'interfaccia e le funzionalità di base"
+  },
+  {
+    "domanda": "Cosa è necessario fare per avere la prova dell'invio del **contenuto** in una PEC (escludendo gli allegati)?",
+    "risposte": [
+      "Allegare un file .pdf firmato digitalmente",
+      "Inserire il testo nel corpo del messaggio PEC",
+      "Usare l'opzione Copia Conoscenza Nascosta (CCN)",
+      "Non è possibile certificare il contenuto, solo l'esistenza dell'invio"
+    ],
+    "corretta": "Inserire il testo nel corpo del messaggio PEC"
+  },
+  {
+    "domanda": "Cosa si intende per **HTML** (HyperText Markup Language)?",
+    "risposte": [
+      "Un protocollo per il trasferimento sicuro di dati",
+      "Il linguaggio utilizzato per creare e strutturare il contenuto delle pagine web",
+      "Un tipo di motore di ricerca avanzato",
+      "Il nome di un browser obsoleto"
+    ],
+    "corretta": "Il linguaggio utilizzato per creare e strutturare il contenuto delle pagine web"
+  }
+]
