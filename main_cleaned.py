@@ -10,55 +10,34 @@ quizzes = {}
 
 def load_data():
     """
-    Carica i file ordered_questions1.json ... ordered_questions5.json
-    + i quiz extra (3-2, 3-3, 4-2, 4-3, 5-2, 5-3)
+    Carica tutti i quiz base (1-5) e tutti i quiz extra (X-2, X-3) in modo dinamico.
     """
     global quizzes
     quizzes.clear()
     
-    # quiz base 1 → 5
+    # 1. Caricamento quiz base 1 → 5
     for i in range(1, 6):
         path = Path(f"ordered_questions{i}.json")
         if path.exists():
             with open(path, "r", encoding="utf-8") as f:
                 quizzes[str(i)] = json.load(f)
 
-    # quiz extra 3-2
-    path_extra = Path("ordered_questions3-2.json")
-    if path_extra.exists():
-        with open(path_extra, "r", encoding="utf-8") as f:
-            quizzes["3-2"] = json.load(f)
+    # 2. Caricamento di tutti i quiz extra (es: 1-2, 1-3, 2-2, 2-3, 3-2, ...)
+    # Definizione degli ID che devono avere un sottomenu con Base, Approfondimento e Vero/Falso
+    extra_quiz_ids = [
+        "1-2", "1-3",
+        "2-2", "2-3",
+        "3-2", "3-3",
+        "4-2", "4-3",
+        "5-2", "5-3",
+    ]
 
-    # quiz extra 3-3
-    path_extra_3_3 = Path("ordered_questions3-3.json")
-    if path_extra_3_3.exists():
-        with open(path_extra_3_3, "r", encoding="utf-8") as f:
-            quizzes["3-3"] = json.load(f)
-
-    # quiz extra 4-2
-    path_extra_4_2 = Path("ordered_questions4-2.json")
-    if path_extra_4_2.exists():
-        with open(path_extra_4_2, "r", encoding="utf-8") as f:
-            quizzes["4-2"] = json.load(f)
-
-    # quiz extra 4-3
-    path_extra_4_3 = Path("ordered_questions4-3.json")
-    if path_extra_4_3.exists():
-        with open(path_extra_4_3, "r", encoding="utf-8") as f:
-            quizzes["4-3"] = json.load(f)
-
-    # quiz extra 5-2
-    path_extra_5_2 = Path("ordered_questions5-2.json")
-    if path_extra_5_2.exists():
-        with open(path_extra_5_2, "r", encoding="utf-8") as f:
-            quizzes["5-2"] = json.load(f)
-
-    # quiz extra 5-3
-    path_extra_5_3 = Path("ordered_questions5-3.json")
-    if path_extra_5_3.exists():
-        with open(path_extra_5_3, "r", encoding="utf-8") as f:
-            quizzes["5-3"] = json.load(f)
-
+    for quiz_id in extra_quiz_ids:
+        # Il file si aspetta nomi come 'ordered_questions1-2.json', 'ordered_questions1-3.json', etc.
+        path_extra = Path(f"ordered_questions{quiz_id}.json")
+        if path_extra.exists():
+            with open(path_extra, "r", encoding="utf-8") as f:
+                quizzes[quiz_id] = json.load(f)
 # carico subito i dati all'avvio
 load_data()
 
