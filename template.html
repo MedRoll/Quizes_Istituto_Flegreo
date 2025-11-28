@@ -65,34 +65,46 @@
     }
     .progress-bar-animate { transition: width 0.4s ease-in-out; }
   </style>
-  <!-- Chart.js e DataLabels -->
   <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-datalabels@2"></script>
 </head>
 <body>
-  <!-- MENU INIZIALE -->
   <div id="start-container" style="text-align: center; margin-bottom: 30px;">
     <h1>Benvenuto!</h1>
     <button onclick="setDocenteMode(false)">📝 Modalità Studente</button>
     <button onclick="setDocenteMode(true)">👩‍🏫 Modalità Docente</button>
   </div>
 
-  <!-- SELEZIONE QUIZ -->
   <div id="quiz-buttons" style="margin-top:20px; display:none; text-align:center;">
     <h2 id="quiz-title"></h2>
 
-    <!-- 🔽 CONTENITORE PULSANTI PRINCIPALI -->
     <div id="main-quiz-buttons">
-      <button onclick="iniziaQuiz(1)">🎤 Quiz 1 - Competenze Digitali Base</button>
-      <button onclick="iniziaQuiz(2)">📧 Quiz 2 - Internet, Email e PEC</button>
+      <button onclick="mostraSottomenuQuiz1()">🎤 Quiz 1 - Competenze Digitali Base</button>
+      <button onclick="mostraSottomenuQuiz2()">📧 Quiz 2 - Internet, Email e PEC</button>
 
-      <!-- pulsanti che aprono sottomenu -->
       <button onclick="mostraSottomenuQuiz3()">🔐 Quiz 3 - SPID, Cybersecurity e GDPR</button>
       <button onclick="mostraSottomenuQuiz4()">💬 Quiz 4 - Social Media</button>
       <button onclick="mostraSottomenuQuiz5()">💻 Quiz 5 - Produttività, Cyberbullismo e Tecnologia</button>
     </div>
 
-    <!-- SOTTOMENU QUIZ 3 (sibling del main container) -->
+    <div id="submenu-quiz1" style="display:none; margin-top:10px;">
+      <button onclick="iniziaQuiz(1)">📘 Quiz 1 - Base</button>
+      <button onclick="iniziaQuiz('1-2')">🛡️ Quiz 1-2 - Approfondimento</button>
+      <button onclick="iniziaQuiz('1-3')">🧪 Quiz 1-3 - Vero/Falso</button>
+      <div style="margin-top:10px;">
+        <button onclick="nascondiSottomenuQuiz1()">⬅️ Indietro</button>
+      </div>
+    </div>
+
+    <div id="submenu-quiz2" style="display:none; margin-top:10px;">
+      <button onclick="iniziaQuiz(2)">📘 Quiz 2 - Base</button>
+      <button onclick="iniziaQuiz('2-2')">🛡️ Quiz 2-2 - Approfondimento</button>
+      <button onclick="iniziaQuiz('2-3')">🧪 Quiz 2-3 - Vero/Falso</button>
+      <div style="margin-top:10px;">
+        <button onclick="nascondiSottomenuQuiz2()">⬅️ Indietro</button>
+      </div>
+    </div>
+
     <div id="submenu-quiz3" style="display:none; margin-top:10px;">
       <button onclick="iniziaQuiz(3)">📘 Quiz 3 - Base</button>
       <button onclick="iniziaQuiz('3-2')">🛡️ Quiz 3-2 - Approfondimento</button>
@@ -102,7 +114,6 @@
       </div>
     </div>
 
-    <!-- SOTTOMENU QUIZ 4 -->
     <div id="submenu-quiz4" style="display:none; margin-top:10px;">
       <button onclick="iniziaQuiz(4)">📘 Quiz 4 - Base</button>
       <button onclick="iniziaQuiz('4-2')">🛡️ Quiz 4-2 - Approfondimento</button>
@@ -112,7 +123,6 @@
       </div>
     </div>
 
-    <!-- SOTTOMENU QUIZ 5 -->
     <div id="submenu-quiz5" style="display:none; margin-top:10px;">
       <button onclick="iniziaQuiz(5)">📘 Quiz 5 - Base</button>
       <button onclick="iniziaQuiz('5-2')">🛡️ Quiz 5-2 - Approfondimento</button>
@@ -127,7 +137,6 @@
     </div>
   </div>
 
-  <!-- QUIZ CLASSICO -->
   <h1 style="display:none;" id="titolo-quiz">Quiz a Scelta Multipla</h1>
   <div class="stats" id="stats-container" style="display:none;">
     <div><strong>Punteggio:</strong> <span id="punteggio">0</span></div>
@@ -150,7 +159,6 @@
   </div>
   <div id="recap"></div>
 
-  <!-- MODALITÀ DOCENTE -->
   <div id="docente-container" style="display:none;">
     <h1>Modalità Docente</h1>
     <div id="lista-docente"></div>
@@ -172,8 +180,11 @@
       document.getElementById("start-container").style.display="none";
       document.getElementById("quiz-buttons").style.display="block";
       document.getElementById("quiz-title").textContent = mode ? "Seleziona un quiz (Modalità Docente)" : "Seleziona un quiz (Modalità Studente)";
-      // assicurarsi che il main menu sia visibile e che i sottomenu siano nascosti
+      
+      // RESET COMPLETO VISUALIZZAZIONE MENU
       document.getElementById('main-quiz-buttons').style.display='block';
+      document.getElementById('submenu-quiz1').style.display='none';
+      document.getElementById('submenu-quiz2').style.display='none';
       document.getElementById('submenu-quiz3').style.display='none';
       document.getElementById('submenu-quiz4').style.display='none';
       document.getElementById('submenu-quiz5').style.display='none';
@@ -337,8 +348,11 @@
       document.getElementById('progress-container').style.display='none';
       document.getElementById('recap').innerHTML='';
       document.getElementById('quiz-buttons').style.display='block';
-      // assicurarsi che il main menu sia visibile e i sottomenu nascosti
+      
+      // RESET MENU
       document.getElementById('main-quiz-buttons').style.display='block';
+      document.getElementById('submenu-quiz1').style.display='none';
+      document.getElementById('submenu-quiz2').style.display='none';
       document.getElementById('submenu-quiz3').style.display='none';
       document.getElementById('submenu-quiz4').style.display='none';
       document.getElementById('submenu-quiz5').style.display='none';
@@ -347,14 +361,34 @@
     function tornaAllaModalita(){ 
       document.getElementById('quiz-buttons').style.display='none'; 
       document.getElementById('start-container').style.display='block'; 
-      // assicurarsi che i sottomenu siano chiusi
+      // RESET MENU
       document.getElementById('main-quiz-buttons').style.display='block';
+      document.getElementById('submenu-quiz1').style.display='none';
+      document.getElementById('submenu-quiz2').style.display='none';
       document.getElementById('submenu-quiz3').style.display='none';
       document.getElementById('submenu-quiz4').style.display='none';
       document.getElementById('submenu-quiz5').style.display='none';
     }
 
-    // --- MODIFICHE MINIME ALLE FUNZIONI DEI SOTTOMENU (nasconde SOLO i pulsanti principali) ---
+    // --- NUOVE FUNZIONI PER SOTTOMENU 1 e 2 ---
+    function mostraSottomenuQuiz1(){ 
+      document.getElementById('main-quiz-buttons').style.display='none';
+      document.getElementById('submenu-quiz1').style.display='block';
+    }
+    function nascondiSottomenuQuiz1(){ 
+      document.getElementById('submenu-quiz1').style.display='none';
+      document.getElementById('main-quiz-buttons').style.display='block';
+    }
+    function mostraSottomenuQuiz2(){ 
+      document.getElementById('main-quiz-buttons').style.display='none';
+      document.getElementById('submenu-quiz2').style.display='block';
+    }
+    function nascondiSottomenuQuiz2(){ 
+      document.getElementById('submenu-quiz2').style.display='none';
+      document.getElementById('main-quiz-buttons').style.display='block';
+    }
+
+    // --- FUNZIONI ESISTENTI ---
     function mostraSottomenuQuiz3(){ 
       document.getElementById('main-quiz-buttons').style.display='none';
       document.getElementById('submenu-quiz3').style.display='block';
