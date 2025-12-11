@@ -8,7 +8,7 @@
     "corretta": "Vero"
   },
   {
-    "domanda": "Con il termine 'Internet' si intende la stessa cosa del 'World Wide Web' (WWW).",
+    "domanda": "Il termine Internet nasce come abbreviazione di 'intra network'.",
     "risposte": [
       "Vero",
       "Falso"
@@ -16,7 +16,7 @@
     "corretta": "Falso"
   },
   {
-    "domanda": "Un Byte è l'unità elementare di informazione e corrisponde a un singolo stato (0 o 1).",
+    "domanda": "Il World Wide Web (WWW) è esattamente la stessa cosa di Internet; i due termini sono sinonimi in ambito specialistico.",
     "risposte": [
       "Vero",
       "Falso"
@@ -24,15 +24,7 @@
     "corretta": "Falso"
   },
   {
-    "domanda": "La CPU (Central Processing Unit) è l'unità che esegue i calcoli e coordina le attività in un computer.",
-    "risposte": [
-      "Vero",
-      "Falso"
-    ],
-    "corretta": "Vero"
-  },
-  {
-    "domanda": "La RAM è una memoria 'volatile' che mantiene i dati anche dopo lo spegnimento del computer.",
+    "domanda": "L'avvento di Internet è stata una rivoluzione tecnologica e socio-culturale dagli inizi degli anni duemila.",
     "risposte": [
       "Vero",
       "Falso"
@@ -40,7 +32,7 @@
     "corretta": "Falso"
   },
   {
-    "domanda": "Un SSD (Solid State Drive) è più veloce di un HDD (Hard Disk Drive) perché non ha parti mobili.",
+    "domanda": "Un motore di ricerca classifica i contenuti disponibili in base a formule statistico-matematiche che ne indicano il grado di rilevanza.",
     "risposte": [
       "Vero",
       "Falso"
@@ -48,7 +40,7 @@
     "corretta": "Vero"
   },
   {
-    "domanda": "Una rete LAN (Local Area Network) copre l'estensione di una intera nazione.",
+    "domanda": "Il browser è un sito web che si usa per cercare informazioni su Internet.",
     "risposte": [
       "Vero",
       "Falso"
@@ -56,15 +48,7 @@
     "corretta": "Falso"
   },
   {
-    "domanda": "Il protocollo HTTP con il lucchetto (HTTPS) è più sicuro di HTTP perché utilizza la crittografia SSL/TLS.",
-    "risposte": [
-      "Vero",
-      "Falso"
-    ],
-    "corretta": "Vero"
-  },
-  {
-    "domanda": "Un 'Browser' e un 'Motore di Ricerca' sono la stessa cosa.",
+    "domanda": "Google Chrome è un motore di ricerca, mentre Google è un browser.",
     "risposte": [
       "Vero",
       "Falso"
@@ -72,7 +56,7 @@
     "corretta": "Falso"
   },
   {
-    "domanda": "Il browser (es. Chrome) è l'applicazione che gestisce la comunicazione con i server e compone la pagina web.",
+    "domanda": "Il primo controllo che si può fare per assicurarsi che un sito web sia sicuro è cercare il nome del dominio su Google.",
     "risposte": [
       "Vero",
       "Falso"
@@ -80,7 +64,7 @@
     "corretta": "Vero"
   },
   {
-    "domanda": "Il DNS (Domain Name System) serve a tradurre i nomi di dominio (es. google.com) negli indirizzi IP numerici.",
+    "domanda": "L'uso dell'operatore 'site:' nel campo di ricerca Google serve a trovare tutte le pagine indicizzate di quel dominio.",
     "risposte": [
       "Vero",
       "Falso"
@@ -88,23 +72,7 @@
     "corretta": "Vero"
   },
   {
-    "domanda": "I motori di ricerca analizzano e indicizzano una grandissima lista di siti, un po' come fossero le pagine gialle di Internet.",
-    "risposte": [
-      "Vero",
-      "Falso"
-    ],
-    "corretta": "Vero"
-  },
-  {
-    "domanda": "La PEC (Posta Elettronica Certificata) garantisce lo stesso valore legale di una raccomandata con avviso di ricevimento.",
-    "risposte": [
-      "Vero",
-      "Falso"
-    ],
-    "corretta": "Vero"
-  },
-  {
-    "domanda": "L'indirizzo email si compone di un nome utente, seguito dal simbolo # e poi dal dominio.",
+    "domanda": "Il Tag Title è il codice HTML utilizzato per strutturare il contenuto della pagina.",
     "risposte": [
       "Vero",
       "Falso"
@@ -112,7 +80,47 @@
     "corretta": "Falso"
   },
   {
-    "domanda": "Il campo CC (Copia Conoscenza) in una email invia il messaggio a destinatari che non vedono gli indirizzi degli altri.",
+    "domanda": "Il protocollo **HTTPS** indica che la trasmissione dei dati sul web è crittografata e protetta.",
+    "risposte": [
+      "Vero",
+      "Falso"
+    ],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "L'assenza del certificato SSL (e quindi l'uso di solo HTTP) su un sito è ormai una condizione difficile da riscontrare.",
+    "risposte": [
+      "Vero",
+      "Falso"
+    ],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "I siti web di una società sono obbligati a comunicare Partita IVA e Sede Legale.",
+    "risposte": [
+      "Vero",
+      "Falso"
+    ],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Un indirizzo email permette di inviare messaggi anche a più persone contemporaneamente.",
+    "risposte": [
+      "Vero",
+      "Falso"
+    ],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Uno svantaggio della posta elettronica ordinaria è la possibilità di ricevere messaggi pubblicitari indesiderati chiamati **spam**.",
+    "risposte": [
+      "Vero",
+      "Falso"
+    ],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "La parte prima della chiocciola (@) in un indirizzo email si chiama dominio.",
     "risposte": [
       "Vero",
       "Falso"
@@ -120,7 +128,7 @@
     "corretta": "Falso"
   },
   {
-    "domanda": "Il campo CCN (Copia Conoscenza Nascosta) nasconde gli indirizzi email agli altri destinatari, tutelando la privacy.",
+    "domanda": "Il campo 'Oggetto' in una mail serve per indicare lo scopo del messaggio.",
     "risposte": [
       "Vero",
       "Falso"
@@ -128,7 +136,7 @@
     "corretta": "Vero"
   },
   {
-    "domanda": "Una casella PEC inviata a una casella email ordinaria (es. Gmail) ha pieno valore legale di notifica.",
+    "domanda": "Il campo **CCN** (Copia Conoscenza Nascosta) è identico al campo **CC** (Copia Conoscenza) in ogni sua funzione.",
     "risposte": [
       "Vero",
       "Falso"
@@ -136,7 +144,7 @@
     "corretta": "Falso"
   },
   {
-    "domanda": "L'Agenzia per l'Italia Digitale (AGID) è l'organo che gestisce la vigilanza sui gestori PEC autorizzati in Italia.",
+    "domanda": "La PEC (Posta Elettronica Certificata) garantisce la prova dell'invio e della consegna del messaggio.",
     "risposte": [
       "Vero",
       "Falso"
@@ -144,15 +152,7 @@
     "corretta": "Vero"
   },
   {
-    "domanda": "Il principale svantaggio della PEC è che non è riconosciuta come standard internazionale (UE).",
-    "risposte": [
-      "Vero",
-      "Falso"
-    ],
-    "corretta": "Vero"
-  },
-  {
-    "domanda": "Il protocollo SMTP si occupa della ricezione delle email sul dispositivo, sincronizzandole tra server e client.",
+    "domanda": "L'indirizzo PEC delle imprese e dei professionisti non è rintracciabile gratuitamente online.",
     "risposte": [
       "Vero",
       "Falso"
@@ -160,7 +160,7 @@
     "corretta": "Falso"
   },
   {
-    "domanda": "I file .exe e gli allegati compressi sono sempre bloccati dai server di posta per motivi di sicurezza.",
+    "domanda": "Dal 2024 è iniziata la transizione dalla PEC alla Registered Electronic Mail, standard europeo.",
     "risposte": [
       "Vero",
       "Falso"
@@ -168,7 +168,7 @@
     "corretta": "Vero"
   },
   {
-    "domanda": "Un sito web di una società ha l'obbligo di indicare Ragione Sociale e Partita IVA nelle informazioni legali.",
+    "domanda": "In caso di smarrimento, è possibile disporre di una traccia informatica della ricevuta PEC con lo stesso valore legale per un periodo di trenta mesi.",
     "risposte": [
       "Vero",
       "Falso"
@@ -176,15 +176,7 @@
     "corretta": "Vero"
   },
   {
-    "domanda": "La Marca Temporale ha lo scopo di estendere la validità legale di un documento firmato digitalmente nel tempo.",
-    "risposte": [
-      "Vero",
-      "Falso"
-    ],
-    "corretta": "Vero"
-  },
-  {
-    "domanda": "Per la legge, salvare una PEC sulla propria chiavetta USB garantisce la 'Conservazione a Norma'.",
+    "domanda": "La PEC verifica l'identità del mittente e del destinatario in modo nativo (senza l'uso di SPID).",
     "risposte": [
       "Vero",
       "Falso"
@@ -192,7 +184,7 @@
     "corretta": "Falso"
   },
   {
-    "domanda": "La ricezione di una notifica legale via PEC si considera avvenuta solo quando il destinatario apre e legge il messaggio.",
+    "domanda": "La validità della PEC è riconosciuta come standard internazionale in tutti i paesi dell'Unione Europea.",
     "risposte": [
       "Vero",
       "Falso"
@@ -200,7 +192,15 @@
     "corretta": "Falso"
   },
   {
-    "domanda": "In caso di casella PEC piena, la notifica legale si considera comunque valida per 'compiuta giacenza'.",
+    "domanda": "L'eventuale destinatario non PEC, pur ricevendo correttamente un messaggio da una PEC, genera avvisi con valore legale.",
+    "risposte": [
+      "Vero",
+      "Falso"
+    ],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "La PEC offre maggiori garanzie legali della raccomandata A/R perché certifica anche la data con la marca temporale e il contenuto con la firma digitale.",
     "risposte": [
       "Vero",
       "Falso"
@@ -208,23 +208,7 @@
     "corretta": "Vero"
   },
   {
-    "domanda": "Lo SPID Livello 2 richiede solo l'uso di Username e Password per l'accesso ai servizi PA.",
-    "risposte": [
-      "Vero",
-      "Falso"
-    ],
-    "corretta": "Falso"
-  },
-  {
-    "domanda": "La 'Confidentiality' (Riservatezza) è il pilastro della sicurezza che si ottiene con l'implementazione di backup e ridondanza dei sistemi.",
-    "risposte": [
-      "Vero",
-      "Falso"
-    ],
-    "corretta": "Falso"
-  },
-  {
-    "domanda": "Un attacco di 'Phishing' simula una comunicazione di un ente fidato per indurre l'utente a inserire le credenziali su un sito web clone.",
+    "domanda": "Le ricevute di consegna PEC hanno piena validità legale, anche se il messaggio non è stato letto dal destinatario.",
     "risposte": [
       "Vero",
       "Falso"
@@ -232,7 +216,23 @@
     "corretta": "Vero"
   },
   {
-    "domanda": "La navigazione in incognito del browser nasconde completamente l'attività dell'utente al provider di servizi Internet.",
+    "domanda": "È possibile inviare messaggi PEC illimitati una volta pagato il canone annuale del servizio.",
+    "risposte": [
+      "Vero",
+      "Falso"
+    ],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "La comunicazione ha valore legale solo se avviene tra caselle PEC, se il destinatario è un'email standard non c'è certezza della consegna.",
+    "risposte": [
+      "Vero",
+      "Falso"
+    ],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Se la casella PEC del destinatario è piena, il mittente non riceverà alcuna notifica di errore.",
     "risposte": [
       "Vero",
       "Falso"
