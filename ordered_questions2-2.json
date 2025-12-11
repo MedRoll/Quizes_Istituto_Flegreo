@@ -1,302 +1,272 @@
 [
   {
-    "domanda": "Con quale protocollo specifico si è sviluppato il World Wide Web (WWW) a partire dal 1991?",
+    "domanda": "Qual è la funzione del protocollo HTTP che ha permesso lo sviluppo del World Wide Web (WWW) a partire dal 1991?",
     "risposte": [
-      "FTP",
-      "SMTP",
-      "HTTP",
-      "TCP/IP"
+      "È il protocollo che assegna gli indirizzi IP ai computer.",
+      "È il protocollo specifico per il trasferimento di dati ipertestuali (pagine web).",
+      "È il protocollo che garantisce la sicurezza dei pagamenti online."
     ],
-    "corretta": "HTTP"
+    "corretta": "È il protocollo specifico per il trasferimento di dati ipertestuali (pagine web)."
   },
   {
-    "domanda": "Qual è il nome della suite di protocolli di rete comune che rende possibile l'interconnessione globale di Internet?",
+    "domanda": "Quale di queste affermazioni è vera riguardo alla differenza tra Internet e WWW?",
     "risposte": [
-      "HTML/CSS",
-      "TCP/IP",
-      "WWW/HTTP",
-      "POP/IMAP"
+      "Non c'è differenza, i due termini sono sinonimi in ogni contesto.",
+      "Internet è l'infrastruttura fisica (i cavi e le reti), il WWW è un servizio che viaggia su di essa (le pagine web).",
+      "Il WWW è la parte più grande e non indicizzata (Deep Web), Internet è la parte visibile."
     ],
-    "corretta": "TCP/IP"
+    "corretta": "Internet è l'infrastruttura fisica (i cavi e le reti), il WWW è un servizio che viaggia su di essa (le pagine web)."
   },
   {
-    "domanda": "Nel linguaggio comune, il termine Internet viene spesso confuso con quale altro termine?",
+    "domanda": "Quale vantaggio offre la Fibra Ottica rispetto ai cavi in rame (Ethernet)?",
     "risposte": [
-      "Intranet",
-      "World Wide Web (WWW)",
-      "LAN",
-      "Extranet"
+      "È più economica da installare su brevi distanze.",
+      "È immune alle interferenze elettromagnetiche e copre grandi distanze.",
+      "Trasporta segnali elettrici ad alta tensione."
     ],
-    "corretta": "World Wide Web (WWW)"
+    "corretta": "È immune alle interferenze elettromagnetiche e copre grandi distanze."
   },
   {
-    "domanda": "Cos'è un **motore di ricerca** (search engine) in ambito Internet?",
+    "domanda": "Un motore di ricerca è un sito web che serve a trovare altri siti web. Qual è il processo che permette al motore di ricerca di catalogare i contenuti?",
     "risposte": [
-      "L'applicazione usata per visualizzare i siti web",
-      "Un sistema automatico che analizza i dati e restituisce un indice classificato in base alla rilevanza",
-      "Un tipo di cavo di rete ad alta velocità",
-      "Un protocollo per la sicurezza dei dati"
+      "La traduzione del codice HTML (HyperText Markup Language).",
+      "Il Crawling (scansione) e l'Indexing (indicizzazione) delle pagine.",
+      "La visualizzazione delle pagine da parte del browser."
     ],
-    "corretta": "Un sistema automatico che analizza i dati e restituisce un indice classificato in base alla rilevanza"
+    "corretta": "Il Crawling (scansione) e l'Indexing (indicizzazione) delle pagine."
   },
   {
-    "domanda": "Qual è la funzione principale del **browser**?",
+    "domanda": "Qual è lo scopo del certificato SSL/TLS che garantisce la presenza del protocollo HTTPS?",
     "risposte": [
-      "Catalogare i siti web disponibili su Internet",
-      "Cercare informazioni in base a una chiave di ricerca",
-      "Gestire la comunicazione con i server per comporre la pagina web nel modo giusto",
-      "Inviare e ricevere messaggi di posta elettronica"
+      "Accelerare la velocità di caricamento della pagina web.",
+      "Crittografare la connessione per proteggere i dati che l'utente inserisce nel sito.",
+      "Fornire all'utente un antivirus integrato nel browser."
     ],
-    "corretta": "Gestire la comunicazione con i server per comporre la pagina web nel modo giusto"
+    "corretta": "Crittografare la connessione per proteggere i dati che l'utente inserisce nel sito."
   },
   {
-    "domanda": "Quale tra i seguenti è un esempio di **browser**?",
+    "domanda": "Qual è il significato del campo 'Oggetto' in una email?",
     "risposte": [
-      "Google",
-      "Bing",
-      "DuckDuckGo",
-      "Chrome"
+      "È un campo facoltativo che serve solo per l'archiviazione.",
+      "È lo scopo o il motivo del messaggio, fondamentale per l'archiviazione e l'urgenza.",
+      "È il campo in cui si inseriscono gli indirizzi in copia conoscenza."
     ],
-    "corretta": "Chrome"
+    "corretta": "È lo scopo o il motivo del messaggio, fondamentale per l'archiviazione e l'urgenza."
   },
   {
-    "domanda": "Quale tra i seguenti è un esempio di **motore di ricerca**?",
+    "domanda": "Se invii una mail a un gruppo di persone in CC (Copia Conoscenza), gli indirizzi sono:",
     "risposte": [
-      "Safari",
-      "Firefox",
-      "Edge",
-      "Yandex"
+      "Invisibili agli altri destinatari, per motivi di privacy.",
+      "Visibili a tutti i destinatari inclusi quelli in A e in CC.",
+      "Visibili solo al mittente, ma non al destinatario principale."
     ],
-    "corretta": "Yandex"
+    "corretta": "Visibili a tutti i destinatari inclusi quelli in A e in CC."
   },
   {
-    "domanda": "Qual è la differenza fondamentale tra Google e Google Chrome?",
+    "domanda": "Qual è il principale svantaggio della Posta Elettronica Certificata (PEC) nel contesto internazionale?",
     "risposte": [
-      "Google è il browser e Google Chrome è il motore di ricerca",
-      "Google è un motore di ricerca e Google Chrome è un browser",
-      "Sono entrambi motori di ricerca con nomi diversi",
-      "Sono entrambi browser sviluppati da Microsoft"
+      "Non ha la Marca Temporale.",
+      "La sua validità legale è limitata al territorio italiano e non è riconosciuta come standard UE.",
+      "Non permette l'invio di allegati."
     ],
-    "corretta": "Google è un motore di ricerca e Google Chrome è un browser"
+    "corretta": "La sua validità legale è limitata al territorio italiano e non è riconosciuta come standard UE."
   },
   {
-    "domanda": "Qual è il significato del termine **email** (o e-mail)?",
+    "domanda": "Chi è l'organo pubblico italiano preposto alla vigilanza e al coordinamento dei gestori di servizi digitali come la PEC e la Firma Digitale?",
     "risposte": [
-      "Electronic Messaging",
-      "Electronic Mail",
-      "Enterprise Mail",
-      "Encrypted Mail"
+      "Il Ministero delle Imprese e del Made in Italy (MIMIT).",
+      "L'Autorità Garante della Concorrenza e del Mercato (AGCM).",
+      "L'Agenzia per l'Italia Digitale (AGID)."
     ],
-    "corretta": "Electronic Mail"
+    "corretta": "L'Agenzia per l'Italia Digitale (AGID)."
   },
   {
-    "domanda": "Qual è lo scopo principale del campo **CC** (Copia Conoscenza) in un messaggio di posta elettronica?",
+    "domanda": "Quale informazione *non* è certificata dalla Ricevuta di Consegna di una PEC?",
     "risposte": [
-      "Nascondere l'indirizzo del destinatario principale",
-      "Indicare lo scopo o il motivo del messaggio",
-      "Inviare il messaggio ad altri destinatari anche se non sono i diretti interessati",
-      "Inviare il messaggio solo al destinatario principale"
+      "La data e l'ora esatta del deposito del messaggio nella casella del destinatario.",
+      "L'indirizzo PEC del mittente e del destinatario.",
+      "Il fatto che il destinatario abbia effettivamente aperto e letto il contenuto del messaggio."
     ],
-    "corretta": "Inviare il messaggio ad altri destinatari anche se non sono i diretti interessati"
+    "corretta": "Il fatto che il destinatario abbia effettivamente aperto e letto il contenuto del messaggio."
   },
   {
-    "domanda": "Qual è il principale vantaggio di usare il campo **CCN** (Copia Conoscenza Nascosta)?",
+    "domanda": "Cosa si intende per 'Indirizzo PEC delle Imprese e dei Professionisti'?",
     "risposte": [
-      "Garantire la validità legale del messaggio",
-      "Nascondere gli indirizzi agli altri destinatari",
-      "Allegare file di grandi dimensioni",
-      "Certificare l'identità del mittente"
+      "Un indirizzo email ordinario (es. Gmail) usato per comunicazioni formali.",
+      "L'indirizzo PEC rintracciabile gratuitamente tramite il registro pubblico INI-PEC.",
+      "L'indirizzo PEC del titolare non è mai rintracciabile online per legge."
     ],
-    "corretta": "Nascondere gli indirizzi agli altri destinatari"
+    "corretta": "L'indirizzo PEC rintracciabile gratuitamente tramite il registro pubblico INI-PEC."
   },
   {
-    "domanda": "Quale simbolo separa lo username dal dominio in un indirizzo email?",
+    "domanda": "Qual è il principale limite di sicurezza della PEC che verrà superato dallo standard europeo REM?",
     "risposte": [
-      "# (cancelletto)",
-      "@ (chiocciola)",
-      ": (due punti)",
-      "/ (slash)"
+      "La sua lentezza nell'invio di messaggi.",
+      "Il fatto che l'identità del proprietario dell'indirizzo PEC non è verificata.",
+      "La mancanza di un oggetto nel messaggio."
     ],
-    "corretta": "@ (chiocciola)"
+    "corretta": "Il fatto che l'identità del proprietario dell'indirizzo PEC non è verificata."
   },
   {
-    "domanda": "In Italia, la **PEC** (Posta Elettronica Certificata) conferisce al messaggio lo stesso valore legale di cosa?",
+    "domanda": "Qual è un vantaggio offerto dalla PEC rispetto alla raccomandata cartacea A/R?",
     "risposte": [
-      "Una telefonata registrata",
-      "Un fax con conferma di ricezione",
-      "Una raccomandata con avviso di ricevimento",
-      "Un SMS certificato"
+      "Costo sempre maggiore e tempi di consegna più lunghi.",
+      "Certifica la trasmissione e può certificare il contenuto della comunicazione, inclusi gli allegati.",
+      "Richiede sempre l'uso di una busta fisica."
     ],
-    "corretta": "Una raccomandata con avviso di ricevimento"
+    "corretta": "Certifica la trasmissione e può certificare il contenuto della comunicazione, inclusi gli allegati."
   },
   {
-    "domanda": "Quale organo pubblico è demandato alla vigilanza e al coordinamento dei gestori PEC in Italia?",
+    "domanda": "Perché è importante monitorare regolarmente la propria casella PEC?",
     "risposte": [
-      "AGCOM",
-      "AGID (Agenzia per l'Italia Digitale)",
-      "Garante Privacy",
-      "ANAC"
+      "Per inviare messaggi pubblicitari (spam).",
+      "Per evitare che scada la connessione Internet.",
+      "Per evitare il decorso di eventuali termini legali: la notifica è valida appena il messaggio è depositato (compiuta giacenza)."
     ],
-    "corretta": "AGID (Agenzia per l'Italia Digitale)"
+    "corretta": "Per evitare il decorso di eventuali termini legali: la notifica è valida appena il messaggio è depositato (compiuta giacenza)."
   },
   {
-    "domanda": "Cosa garantisce al mittente la **ricevuta di accettazione** inviata dal gestore PEC?",
+    "domanda": "Cosa si intende per 'Autenticazione a Due Fattori' (2FA), che sarà obbligatoria per la PEC Europea (REM)?",
     "risposte": [
-      "La lettura del messaggio da parte del destinatario",
-      "La prova dell'invio con precisa indicazione temporale",
-      "La firma digitale del contenuto del messaggio",
-      "Che il destinatario abbia una casella non piena"
+      "Accedere solo con la password, ma da due dispositivi diversi.",
+      "Accedere con Password e un secondo elemento di verifica (es. un codice monouso OTP o biometria).",
+      "Accedere solo tramite la carta d'identità elettronica."
     ],
-    "corretta": "La prova dell'invio con precisa indicazione temporale"
+    "corretta": "Accedere con Password e un codice monouso (OTP) o biometria."
   },
   {
-    "domanda": "Qual è uno dei principali **svantaggi** della PEC, soprattutto in ambito internazionale?",
+    "domanda": "Qual è l'obiettivo principale del sistema SPID (Sistema Pubblico di Identità Digitale)?",
     "risposte": [
-      "Non può inviare allegati",
-      "Non offre la prova dell'invio",
-      "La sua validità è limitata al territorio italiano (non è uno standard internazionale)",
-      "È un servizio completamente gratuito"
+      "Fornire un servizio di posta elettronica certificata (PEC) gratuito.",
+      "Unificare l'accesso a tutti i servizi pubblici digitali (PA) con un'unica chiave d'accesso.",
+      "Sostituire completamente la Carta d'Identità Elettronica (CIE)."
     ],
-    "corretta": "La sua validità è limitata al territorio italiano (non è uno standard internazionale)"
+    "corretta": "Unificare l'accesso a tutti i servizi pubblici digitali (PA) con un'unica chiave d'accesso."
   },
   {
-    "domanda": "Cosa si intende per **Snippet** nei risultati di un motore di ricerca?",
+    "domanda": "Cosa rende la Carta d'Identità Elettronica (CIE) uno strumento di autenticazione di alto livello (Livello 3)?",
     "risposte": [
-      "L'indirizzo web (URL) del sito",
-      "Una breve descrizione del contenuto della pagina web",
-      "Il codice HTML completo della pagina",
-      "Il nome del browser utilizzato"
+      "La sua forma fisica e la necessità di un lettore (o di un telefono con NFC) per leggere il chip.",
+      "Il fatto che è gestita da Identity Provider privati come Poste Italiane.",
+      "La sua integrazione con tutti i social media."
     ],
-    "corretta": "Una breve descrizione del contenuto della pagina web"
+    "corretta": "La sua forma fisica e la necessità di un lettore (o di un telefono con NFC) per leggere il chip."
   },
   {
-    "domanda": "Per verificare se un sito è sicuro, quale protocollo dovrebbe essere presente nell'indirizzo?",
+    "domanda": "Quale protocollo di sicurezza garantisce che i dati non siano accessibili a chi non è autorizzato (Riservatezza)?",
     "risposte": [
-      "HTTP",
-      "HTTPS",
-      "FTP",
-      "POP3"
+      "Il protocollo DNS.",
+      "L'utilizzo della crittografia e delle password.",
+      "La ridondanza dei server e l'uso di un backup."
     ],
-    "corretta": "HTTPS"
+    "corretta": "L'utilizzo della crittografia e delle password."
   },
   {
-    "domanda": "L'**operatore site:** su Google serve a:",
+    "domanda": "Cos'è un Trojan Horse nel contesto della sicurezza informatica?",
     "risposte": [
-      "Cercare il nome del dominio su altri siti di recensioni",
-      "Controllare l'attività di eventuali malware e siti 'bucati'",
-      "Elencare tutte le pagine che Google ha indicizzato per quel dominio",
-      "Acquistare un certificato SSL"
+      "Un malware che si diffonde autonomamente nella rete.",
+      "Un software che sembra utile (es. un gioco) ma che nasconde un codice dannoso (es. una backdoor per gli hacker).",
+      "Un sistema di protezione della posta elettronica."
     ],
-    "corretta": "Elencare tutte le pagine che Google ha indicizzato per quel dominio"
+    "corretta": "Un software che sembra utile (es. un gioco) ma che nasconde un codice dannoso (es. una backdoor per gli hacker)."
   },
   {
-    "domanda": "Cos'è il **codice malevolo**?",
+    "domanda": "L'attacco Ransomware si basa sull'azione di:",
     "risposte": [
-      "Un linguaggio di programmazione obsoleto",
-      "Un software creato per danneggiare o violare sistemi informatici",
-      "Il codice sorgente di un browser",
-      "Una chiave di ricerca troppo lunga"
+      "Rubare i dati personali tramite un sito web clone.",
+      "Bloccare e cifrare tutti i file del computer per chiedere un riscatto.",
+      "Inviare email massive di spam e pubblicità."
     ],
-    "corretta": "Un software creato per danneggiare o violare sistemi informatici"
+    "corretta": "Bloccare e cifrare tutti i file del computer per chiedere un riscatto."
   },
   {
-    "domanda": "Quale tipo di memoria del computer è la RAM?",
+    "domanda": "L'Ingegneria Sociale è una tecnica utilizzata dagli hacker per:",
     "risposte": [
-      "Memoria di Massa",
-      "Memoria Volatile",
-      "Memoria Permanente",
-      "Memoria di Sola Lettura"
+      "Ottimizzare il proprio sito web per i motori di ricerca.",
+      "Sfruttare vulnerabilità nel software del computer.",
+      "Manipolare psicologicamente le persone per ottenere informazioni riservate (es. password)."
     ],
-    "corretta": "Memoria Volatile"
+    "corretta": "Manipolare psicologicamente le persone per ottenere informazioni riservate (es. password)."
   },
   {
-    "domanda": "Quale dei seguenti è un rischio associato all'uso della posta elettronica non certificata?",
+    "domanda": "Qual è il principale beneficio di utilizzare una VPN (Virtual Private Network)?",
     "risposte": [
-      "Impossibilità di allegare file",
-      "Ricevere messaggi pubblicitari indesiderati (spam)",
-      "La mancanza di un oggetto",
-      "L'uso obbligatorio di un client di posta"
+      "Garantire che il tuo browser non salvi la cronologia.",
+      "Creare un 'tunnel' cifrato per proteggere i dati, specialmente su reti Wi-Fi pubbliche.",
+      "Rendere il computer immune ai virus e ai malware."
     ],
-    "corretta": "Ricevere messaggi pubblicitari indesiderati (spam)"
+    "corretta": "Creare un 'tunnel' cifrato per proteggere i dati, specialmente su reti Wi-Fi pubbliche."
   },
   {
-    "domanda": "Cosa si intende per **Netiquette** dell’email?",
+    "domanda": "La regola 3-2-1 del backup raccomanda di mantenere almeno quante copie totali dei dati e su quanti supporti diversi?",
     "risposte": [
-      "Un protocollo di sicurezza per la PEC",
-      "L'obbligo di usare solo Gmail",
-      "L'insieme delle regole di buon comportamento nell'uso della posta elettronica",
-      "Una funzione per l'autenticazione a due fattori"
+      "2 copie su 1 supporto diverso.",
+      "3 copie su 2 supporti diversi, con 1 copia off-site.",
+      "3 copie solo su hard disk esterno."
     ],
-    "corretta": "L'insieme delle regole di buon comportamento nell'uso della posta elettronica"
+    "corretta": "3 copie su 2 supporti diversi, con 1 copia off-site."
   },
   {
-    "domanda": "La parte di un indirizzo email dopo il simbolo **@** è chiamata:",
+    "domanda": "Cosa sono i 'Cookie di Profilazione' che richiedono il consenso esplicito dell'utente (Cookie Law)?",
     "risposte": [
-      "Username",
-      "Client",
-      "Dominio",
-      "Protocollo"
+      "File di testo indispensabili per il funzionamento tecnico del sito (es. carrello).",
+      "File utilizzati per tracciare il comportamento dell'utente e creare profili pubblicitari mirati.",
+      "Piccoli software che infettano il computer con malware."
     ],
-    "corretta": "Dominio"
+    "corretta": "File utilizzati per tracciare il comportamento dell'utente e creare profili pubblicitari mirati."
   },
   {
-    "domanda": "La transizione dalla PEC allo standard europeo Registered Electronic Mail prevede l'autenticazione a due fattori e la certificazione dell'identità mediante:",
+    "domanda": "Qual è lo strumento primario per il Personal Branding e il networking professionale?",
     "risposte": [
-      "Un'email ordinaria",
-      "Un numero di telefono fisso",
-      "SPID o Carta d'Identità Elettronica",
-      "La ricezione di una raccomandata cartacea"
+      "TikTok.",
+      "LinkedIn.",
+      "Pinterest."
     ],
-    "corretta": "SPID o Carta d'Identità Elettronica"
+    "corretta": "LinkedIn."
   },
   {
-    "domanda": "Quale informazione legale **non** è obbligatoria essere comunicata sul sito Internet di una società?",
+    "domanda": "Qual è il principale rischio legato ai dispositivi dell'Internet of Things (IoT)?",
     "risposte": [
-      "Ragione Sociale",
-      "Sede Legale",
-      "Numero di telefono privato dell'amministratore",
-      "Partita IVA"
+      "Consumano troppa energia elettrica.",
+      "Hanno spesso software poco protetti e sono usati dagli hacker per creare reti di attacco (Botnet).",
+      "Non sono compatibili con la connessione 4G."
     ],
-    "corretta": "Numero di telefono privato dell'amministratore"
+    "corretta": "Hanno spesso software poco protetti e sono usati dagli hacker per creare reti di attacco (Botnet)."
   },
   {
-    "domanda": "Qual è il periodo di tempo minimo per cui i gestori PEC sono obbligati ad archiviare tutti gli eventi associati a invii e ricezioni di messaggi PEC?",
+    "domanda": "Qual è la differenza tra l'uso del campo CC (Copia Conoscenza) e il campo A (Destinatario diretto)?",
     "risposte": [
-      "Sei mesi",
-      "Un anno",
-      "Trenta mesi",
-      "Dieci anni"
+      "Il CC serve solo per allegare documenti.",
+      "I destinatari in A devono agire o rispondere; quelli in CC devono solo essere informati.",
+      "Non c'è differenza; il campo A è obsoleto."
     ],
-    "corretta": "Trenta mesi"
+    "corretta": "I destinatari in A devono agire o rispondere; quelli in CC devono solo essere informati."
   },
   {
-    "domanda": "Un indirizzo PEC non si differenzia da una normale casella di posta elettronica dal punto di vista dell'utente per:",
+    "domanda": "Qual è il principale svantaggio dell'utilizzo della Webmail (es. Gmail) rispetto a un Client Desktop (es. Outlook)?",
     "risposte": [
-      "Il valore legale del messaggio",
-      "Il meccanismo di comunicazione sottostante",
-      "La presenza di ricevute automatiche",
-      "L'interfaccia e le funzionalità di base"
+      "È un servizio a pagamento.",
+      "Richiede una connessione Internet attiva per funzionare pienamente e accedere ai messaggi.",
+      "Non permette di inviare allegati."
     ],
-    "corretta": "L'interfaccia e le funzionalità di base"
+    "corretta": "Richiede una connessione Internet attiva per funzionare pienamente e accedere ai messaggi."
   },
   {
-    "domanda": "Cosa è necessario fare per avere la prova dell'invio del **contenuto** in una PEC (escludendo gli allegati)?",
+    "domanda": "Qual è la regola fondamentale della Netiquette (galateo digitale) da rispettare durante una videoconferenza?",
     "risposte": [
-      "Allegare un file .pdf firmato digitalmente",
-      "Inserire il testo nel corpo del messaggio PEC",
-      "Usare l'opzione Copia Conoscenza Nascosta (CCN)",
-      "Non è possibile certificare il contenuto, solo l'esistenza dell'invio"
+      "Tenere sempre la telecamera spenta.",
+      "Non usare mai le cuffie con microfono.",
+      "Mantenere il microfono in Muto quando non si parla, per evitare rumori di fondo."
     ],
-    "corretta": "Inserire il testo nel corpo del messaggio PEC"
+    "corretta": "Mantenere il microfono in Muto quando non si parla, per evitare rumori di fondo."
   },
   {
-    "domanda": "Cosa si intende per **HTML** (HyperText Markup Language)?",
+    "domanda": "Perché è preferibile usare l'Intelligenza Artificiale Generativa (es. Gemini) per scrivere una bozza di email o un riassunto, piuttosto che un motore di ricerca?",
     "risposte": [
-      "Un protocollo per il trasferimento sicuro di dati",
-      "Il linguaggio utilizzato per creare e strutturare il contenuto delle pagine web",
-      "Un tipo di motore di ricerca avanzato",
-      "Il nome di un browser obsoleto"
+      "Perché genera contenuti originali e non solo elenca pagine esistenti.",
+      "Perché garantisce la sicurezza totale dei dati aziendali.",
+      "Perché è l'unico strumento che funziona senza connessione internet."
     ],
-    "corretta": "Il linguaggio utilizzato per creare e strutturare il contenuto delle pagine web"
+    "corretta": "Perché genera contenuti originali e non solo elenca pagine esistenti."
   }
 ]
