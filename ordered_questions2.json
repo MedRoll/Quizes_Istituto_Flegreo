@@ -1,272 +1,182 @@
 [
   {
-    "domanda": "Qual è la differenza tra un Bit e un Byte?",
+    "domanda": "Che cos’è Internet?",
     "risposte": [
-      "Il Bit misura la velocità della CPU, il Byte la capacità del disco.",
-      "Il Bit è l'unità elementare (0 o 1), il Byte è l'insieme di 8 Bit necessario per un carattere.",
-      "Il Bit è volatile (RAM), il Byte è permanente (HDD)."
+      "Un insieme di server privati con accesso limitato",
+      "Una rete mondiale che collega dispositivi tramite protocolli comuni (TCP/IP)",
+      "Un programma installato sul computer per navigare online"
     ],
-    "corretta": "Il Bit è l'unità elementare (0 o 1), il Byte è l'insieme di 8 Bit necessario per un carattere."
+    "corretta": "Una rete mondiale che collega dispositivi tramite protocolli comuni (TCP/IP)"
   },
   {
-    "domanda": "Qual è il compito principale della RAM (Memoria Centrale) in un computer?",
+    "domanda": "Qual è la differenza tra Internet e World Wide Web (WWW)?",
     "risposte": [
-      "Archiviare permanentemente tutti i file dell'utente e i programmi installati.",
-      "Fungere da spazio di lavoro temporaneo e veloce per i programmi in esecuzione.",
-      "Eseguire i calcoli complessi e coordinare le attività del sistema."
+      "Internet è la rete globale, il WWW è un servizio che utilizza Internet",
+      "WWW è l’infrastruttura fisica, Internet è il contenuto delle pagine web",
+      "Non esiste differenza: sono sinonimi"
     ],
-    "corretta": "Fungere da spazio di lavoro temporaneo e veloce per i programmi in esecuzione."
+    "corretta": "Internet è la rete globale, il WWW è un servizio che utilizza Internet"
   },
   {
-    "domanda": "Perché si parla di memoria 'volatile' riferendosi alla RAM?",
+    "domanda": "Qual è la funzione dei protocolli TCP/IP?",
     "risposte": [
-      "Perché può essere facilmente danneggiata da un virus.",
-      "Perché mantiene i dati solo finché c'è alimentazione elettrica e si svuota allo spegnimento.",
-      "Perché i dati contenuti sono accessibili solo tramite Internet."
+      "Gestire la trasmissione dei dati tra dispositivi connessi in rete",
+      "Proteggere la connessione da virus e malware",
+      "Salvare i dati dell’utente durante la navigazione"
     ],
-    "corretta": "Perché mantiene i dati solo finché c'è alimentazione elettrica e si svuota allo spegnimento."
+    "corretta": "Gestire la trasmissione dei dati tra dispositivi connessi in rete"
   },
   {
-    "domanda": "Qual è il vantaggio principale di un SSD (Solid State Drive) rispetto a un HDD (Hard Disk Drive)?",
+    "domanda": "Perché Internet è considerato una rivoluzione degli anni ’90?",
     "risposte": [
-      "Costo molto più basso per grandi capacità di archiviazione.",
-      "L'assenza di parti mobili che garantisce velocità e resistenza agli urti.",
-      "L'immunità totale a qualsiasi tipo di virus informatico."
+      "Ha introdotto i primi sistemi di pagamento digitale",
+      "Ha permesso la comunicazione e la condivisione di dati su scala globale",
+      "Ha sostituito completamente la rete telefonica tradizionale"
     ],
-    "corretta": "L'assenza di parti mobili che garantisce velocità e resistenza agli urti."
+    "corretta": "Ha permesso la comunicazione e la condivisione di dati su scala globale"
   },
   {
-    "domanda": "Qual è la differenza principale tra un algoritmo di compressione Lossless (es. ZIP) e Lossy (es. MP3)?",
+    "domanda": "Che cos’è un motore di ricerca?",
     "risposte": [
-      "Lossless è per i file di testo, Lossy è per i file multimediali.",
-      "Lossless non perde dati e garantisce la perfetta ricostruibilità, Lossy elimina informazioni per risparmiare spazio.",
-      "Lossy è gratuito, Lossless è a pagamento."
+      "Un programma che analizza dati e restituisce risultati in base a parole chiave",
+      "Un dispositivo che accelera la connessione a Internet",
+      "Un browser specializzato per siti web indicizzati"
     ],
-    "corretta": "Lossless non perde dati e garantisce la perfetta ricostruibilità, Lossy elimina informazioni per risparmiare spazio."
+    "corretta": "Un programma che analizza dati e restituisce risultati in base a parole chiave"
   },
   {
-    "domanda": "Come si definisce una rete LAN (Local Area Network)?",
+    "domanda": "Qual è la differenza tra browser e motore di ricerca?",
     "risposte": [
-      "Una rete che copre l'estensione di una nazione o un continente.",
-      "Una rete limitata a un'area geografica ristretta come una casa o un ufficio.",
-      "Una rete che funziona solo tramite cavo in rame (Ethernet)."
+      "Il browser consente di visualizzare i siti, il motore di ricerca aiuta a trovarli",
+      "Il browser elabora i dati, il motore di ricerca li memorizza",
+      "Non c’è differenza: svolgono la stessa funzione"
     ],
-    "corretta": "Una rete limitata a un'area geografica ristretta come una casa o un ufficio."
+    "corretta": "Il browser consente di visualizzare i siti, il motore di ricerca aiuta a trovarli"
   },
   {
-    "domanda": "Qual è la funzione del Modem, spesso integrato nel router di casa?",
+    "domanda": "Quale di questi è un browser?",
     "risposte": [
-      "Assegnare gli indirizzi IP ai dispositivi collegati.",
-      "Tradurre il segnale fisico della linea (telefono o fibra) in segnale digitale per il computer.",
-      "Gestire il traffico di tutti i dispositivi Wi-Fi."
+      "Mozilla Firefox",
+      "Yahoo",
+      "Google"
     ],
-    "corretta": "Tradurre il segnale fisico della linea (telefono o fibra) in segnale digitale per il computer."
+    "corretta": "Mozilla Firefox"
   },
   {
-    "domanda": "Perché il protocollo HTTPS è preferibile a HTTP quando si naviga online?",
+    "domanda": "Quale di questi è un motore di ricerca?",
     "risposte": [
-      "HTTPS è più veloce e consuma meno dati.",
-      "HTTPS utilizza un certificato SSL/TLS per crittografare la connessione, rendendola sicura.",
-      "HTTP è usato solo per scaricare documenti, HTTPS per la visualizzazione."
+      "Bing",
+      "Microsoft Edge",
+      "Opera"
     ],
-    "corretta": "HTTPS utilizza un certificato SSL/TLS per crittografare la connessione, rendendola sicura."
+    "corretta": "Bing"
   },
   {
-    "domanda": "Qual è il compito principale del DNS (Domain Name System)?",
+    "domanda": "Come si può verificare la sicurezza di un sito web?",
     "risposte": [
-      "Garantire che la connessione avvenga in modo sicuro e protetto.",
-      "Tradurre i nomi di dominio testuali (es. google.com) negli indirizzi IP numerici.",
-      "Verificare l'identità del server remoto."
+      "Controllando se utilizza il protocollo HTTPS e un certificato valido",
+      "Aprendolo solo tramite dispositivi mobili",
+      "Analizzando la lunghezza dell’indirizzo web"
     ],
-    "corretta": "Tradurre i nomi di dominio testuali (es. google.com) negli indirizzi IP numerici."
+    "corretta": "Controllando se utilizza il protocollo HTTPS e un certificato valido"
   },
   {
-    "domanda": "L'Internet of Things (IoT) si riferisce a:",
+    "domanda": "Che cos’è un certificato SSL?",
     "risposte": [
-      "Il modello di architettura di rete Peer-to-Peer (P2P).",
-      "L'estensione della connettività Internet a oggetti fisici di uso quotidiano (es. termostati smart).",
-      "Il sistema di ricerca avanzata nel Deep Web."
+      "Un sistema per crittografare i dati trasmessi tra utente e sito",
+      "Un antivirus che protegge i siti web dai malware",
+      "Un file temporaneo che accelera il caricamento delle pagine"
     ],
-    "corretta": "L'estensione della connettività Internet a oggetti fisici di uso quotidiano (es. termostati smart)."
+    "corretta": "Un sistema per crittografare i dati trasmessi tra utente e sito"
   },
   {
-    "domanda": "Quale tra le seguenti affermazioni definisce il 'Deep Web'?",
+    "domanda": "Qual è la funzione principale della posta elettronica?",
     "risposte": [
-      "La parte di Internet indicizzata dai motori di ricerca come Google.",
-      "Una sottorete accessibile solo con software di anonimizzazione (TOR).",
-      "La parte di Internet non indicizzata (es. home banking, caselle email) che è perfettamente legale."
+      "Scambiare messaggi e allegati tramite Internet",
+      "Navigare tra siti sicuri",
+      "Memorizzare dati di navigazione"
     ],
-    "corretta": "La parte di Internet non indicizzata (es. home banking, caselle email) che è perfettamente legale."
+    "corretta": "Scambiare messaggi e allegati tramite Internet"
   },
   {
-    "domanda": "L'obiettivo principale della SEO (Search Engine Optimization) è:",
+    "domanda": "Come è strutturato un indirizzo email?",
     "risposte": [
-      "Pagare Google per far apparire il proprio sito più in alto nei risultati ADS.",
-      "Migliorare la visibilità di un sito web nei risultati di ricerca gratuiti (organici).",
-      "Garantire che il sito sia protetto da virus e attacchi hacker."
+      "Dominio seguito da “/” e nome utente",
+      "Nome utente seguito da “@” e dominio",
+      "Nome utente seguito da “#” e percorso di rete"
     ],
-    "corretta": "Migliorare la visibilità di un sito web nei risultati di ricerca gratuiti (organici)."
+    "corretta": "Nome utente seguito da “@” e dominio"
   },
   {
-    "domanda": "Cosa indica l'operatore di ricerca Google con le virgolette, ad esempio: 'linee guida privacy'?",
+    "domanda": "Qual è il significato del campo CC in una email?",
     "risposte": [
-      "Cercare una delle due parole separatamente.",
-      "Cercare la frase esatta, nello stesso ordine e senza modifiche.",
-      "Escludere entrambe le parole dai risultati."
+      "Inviare una copia visibile ad altri destinatari oltre al principale",
+      "Nascondere il messaggio agli altri destinatari",
+      "Impedire la risposta automatica del destinatario"
     ],
-    "corretta": "Cercare la frase esatta, nello stesso ordine e senza modifiche."
+    "corretta": "Inviare una copia visibile ad altri destinatari oltre al principale"
   },
   {
-    "domanda": "Cos'è la 'Filter Bubble' (Bolla di Filtraggio)?",
+    "domanda": "Qual è il significato del campo CCN in una email?",
     "risposte": [
-      "Un software antivirus che protegge la navigazione.",
-      "La tendenza degli algoritmi a mostrarti solo risultati che confermano le tue idee preesistenti, isolandoti intellettualmente.",
-      "Il processo di indicizzazione dei siti web da parte dei motori di ricerca."
+      "Inviare una copia a destinatari nascosti",
+      "Inviare il messaggio solo al mittente originale",
+      "Condividere l’email su più dispositivi"
     ],
-    "corretta": "La tendenza degli algoritmi a mostrarti solo risultati che confermano le tue idee preesistenti, isolandoti intellettualmente."
+    "corretta": "Inviare una copia a destinatari nascosti"
   },
   {
-    "domanda": "Un file rilasciato con licenza Creative Commons 'CC BY' (Attribuzione) richiede obbligatoriamente che:",
+    "domanda": "Che cos’è la PEC?",
     "risposte": [
-      "L'opera non venga utilizzata per scopi commerciali.",
-      "Venga citato l'autore originale, ma l'uso è libero (anche modifiche).",
-      "L'opera non possa mai essere modificata."
+      "Una casella email con spazio illimitato",
+      "Un sistema di posta elettronica che certifica l’invio e la ricezione con valore legale",
+      "Un protocollo Internet usato solo per comunicazioni aziendali"
     ],
-    "corretta": "Venga citato l'autore originale, ma l'uso è libero (anche modifiche)."
+    "corretta": "Un sistema di posta elettronica che certifica l’invio e la ricezione con valore legale"
   },
   {
-    "domanda": "Perché è fondamentale usare il campo CCN (Copia Nascosta) quando si invia un'email a molti destinatari non conosciuti tra loro?",
+    "domanda": "Quale di questi è un vantaggio della PEC?",
     "risposte": [
-      "Per assicurare che l'email venga recapitata più velocemente.",
-      "Per evitare che i destinatari vedano gli indirizzi email degli altri e tutelare la loro privacy (GDPR).",
-      "Per impedire che i destinatari in CCN possano rispondere all'email."
+      "Garantisce la prova legale di invio e consegna dei messaggi",
+      "Cripta automaticamente tutti gli allegati in formato PDF",
+      "Funziona anche senza connessione a Internet"
     ],
-    "corretta": "Per evitare che i destinatari vedano gli indirizzi email degli altri e tutelare la loro privacy (GDPR)."
+    "corretta": "Garantisce la prova legale di invio e consegna dei messaggi"
   },
   {
-    "domanda": "Qual è la differenza tra la Ricevuta di Accettazione e quella di Consegna di una PEC?",
+    "domanda": "Qual è uno svantaggio della PEC?",
     "risposte": [
-      "La Ricevuta di Accettazione certifica l'invio, quella di Consegna certifica l'avvenuto deposito nella casella del destinatario (valore legale).",
-      "La Ricevuta di Consegna è la prova che il destinatario ha letto il messaggio, quella di Accettazione no.",
-      "La Ricevuta di Accettazione è inviata dal destinatario, quella di Consegna dal mittente."
+      "Ha costi di gestione e non è riconosciuta come standard internazionale",
+      "Non permette di inviare allegati di grandi dimensioni",
+      "Cancella automaticamente i messaggi dopo 7 giorni"
     ],
-    "corretta": "La Ricevuta di Accettazione certifica l'invio, quella di Consegna certifica l'avvenuto deposito nella casella del destinatario (valore legale)."
+    "corretta": "Ha costi di gestione e non è riconosciuta come standard internazionale"
   },
   {
-    "domanda": "Quale problema risolve il protocollo IMAP rispetto al vecchio POP3?",
+    "domanda": "Chi gestisce e controlla i fornitori PEC in Italia?",
     "risposte": [
-      "Permette l'invio di allegati fino a 50MB.",
-      "Sincronizza lo stato della posta elettronica su tutti i dispositivi (PC, telefono).",
-      "Fornisce un valore legale di avvenuta notifica."
+      "Agenzia per l’Italia Digitale (AGID)",
+      "Ministero delle Comunicazioni",
+      "Camera di Commercio"
     ],
-    "corretta": "Sincronizza lo stato della posta elettronica su tutti i dispositivi (PC, telefono)."
+    "corretta": "Agenzia per l’Italia Digitale (AGID)"
   },
   {
-    "domanda": "Cosa si intende per 'Phishing'?",
+    "domanda": "Qual è la validità di una PEC inviata a una casella email ordinaria?",
     "risposte": [
-      "Una tecnica per crittografare tutti i file del computer (Ransomware).",
-      "Una truffa che simula una comunicazione di un ente fidato (Banca, Poste) per rubare le credenziali su un sito clone.",
-      "Un errore del browser che impedisce la visualizzazione delle immagini."
+      "Non ha pieno valore legale come una PEC-PEC",
+      "Ha lo stesso valore se l’email ordinaria conferma la ricezione",
+      "Vale solo se il destinatario accetta la notifica"
     ],
-    "corretta": "Una truffa che simula una comunicazione di un ente fidato (Banca, Poste) per rubare le credenziali su un sito clone."
+    "corretta": "Non ha pieno valore legale come una PEC-PEC"
   },
   {
-    "domanda": "Il Metodo 'Inbox Zero' suggerisce di elaborare ogni email una sola volta con una di queste azioni, tranne:",
+    "domanda": "Perché la posta elettronica tradizionale è ancora molto usata?",
     "risposte": [
-      "Rispondere immediatamente (Do) se l'azione richiede meno di due minuti.",
-      "Cancellare (Delete) se il messaggio è inutile.",
-      "Lasciare la mail non letta in Posta in Arrivo per riesaminarla in seguito."
+      "È gratuita, veloce e sufficiente per la maggior parte delle comunicazioni",
+      "È l’unico modo per inviare documenti ufficiali",
+      "Offre sempre una prova legale della consegna"
     ],
-    "corretta": "Lasciare la mail non letta in Posta in Arrivo per riesaminarla in seguito."
-  },
-  {
-    "domanda": "Il Domicilio Digitale (che può essere una PEC) per il cittadino è l'indirizzo scelto per:",
-    "risposte": [
-      "Scambiare messaggi con i colleghi di lavoro.",
-      "Ricevere tutte le comunicazioni aventi valore legale (es. multe, accertamenti) dalla Pubblica Amministrazione.",
-      "Richiedere l'emissione della Carta d'Identità Elettronica (CIE)."
-    ],
-    "corretta": "Ricevere tutte le comunicazioni aventi valore legale (es. multe, accertamenti) dalla Pubblica Amministrazione."
-  },
-  {
-    "domanda": "Qual è il principale requisito di sicurezza che sarà obbligatorio per l'accesso alla nuova PEC Europea (REM)?",
-    "risposte": [
-      "L'uso di una password di massimo 8 caratteri.",
-      "L'uso esclusivo di un hard disk esterno come sistema di backup.",
-      "L'Autenticazione a Due Fattori (2FA) tramite password e codice monouso (OTP)."
-    ],
-    "corretta": "L'Autenticazione a Due Fattori (2FA) tramite password e codice monouso (OTP)."
-  },
-  {
-    "domanda": "Perché si utilizza la Marca Temporale su un documento firmato digitalmente?",
-    "risposte": [
-      "Per ridurre la dimensione del file e facilitarne l'invio via email.",
-      "Per estendere la validità legale della firma nel tempo, associando una data e ora certa al documento.",
-      "Per convertire il documento firmato in formato PDF/A."
-    ],
-    "corretta": "Per estendere la validità legale della firma nel tempo, associando una data e ora certa al documento."
-  },
-  {
-    "domanda": "In quale caso salvare le fatture elettroniche in una cartella del PC non è considerato 'Conservazione a Norma'?",
-    "risposte": [
-      "Sempre, perché la conservazione a norma è un processo informatico che garantisce integrità e leggibilità per legge.",
-      "Solo se il PC non è protetto da un antivirus aggiornato.",
-      "Mai, l'archiviazione locale è sempre sufficiente per la legge italiana."
-    ],
-    "corretta": "Sempre, perché la conservazione a norma è un processo informatico che garantisce integrità e leggibilità per legge."
-  },
-  {
-    "domanda": "Quale sistema ha permesso di unificare le anagrafi dei singoli Comuni in un'unica banca dati nazionale, migliorando i servizi per il cittadino?",
-    "risposte": [
-      "PagoPA",
-      "ANPR (Anagrafe Nazionale della Popolazione Residente)",
-      "FSE (Fascicolo Sanitario Elettronico)"
-    ],
-    "corretta": "ANPR (Anagrafe Nazionale della Popolazione Residente)"
-  },
-  {
-    "domanda": "Qual è la funzione principale del sistema PagoPA?",
-    "risposte": [
-      "Identificare i cittadini per l'accesso ai servizi pubblici.",
-      "Gestire i pagamenti verso la Pubblica Amministrazione in modo standardizzato e sicuro.",
-      "Fornire il Fascicolo Sanitario Elettronico."
-    ],
-    "corretta": "Gestire i pagamenti verso la Pubblica Amministrazione in modo standardizzato e sicuro."
-  },
-  {
-    "domanda": "Qual è il meccanismo di autenticazione richiesto dal Livello 2 dello SPID?",
-    "risposte": [
-      "Solo nome utente e password.",
-      "Password e un codice monouso (OTP) inviato tramite SMS o App.",
-      "Password e l'uso di una Smart Card con lettore."
-    ],
-    "corretta": "Password e un codice monouso (OTP) inviato tramite SMS o App."
-  },
-  {
-    "domanda": "Cosa garantisce il pilastro della 'Confidentiality' (Riservatezza) nella Triade CIA della Cybersecurity?",
-    "risposte": [
-      "Che i servizi e i dati siano sempre accessibili (Disponibilità).",
-      "Che i dati siano accessibili solo a chi è autorizzato (tramite crittografia e password).",
-      "Che i dati non siano stati alterati o corrotti (Integrità)."
-    ],
-    "corretta": "Che i dati siano accessibili solo a chi è autorizzato (tramite crittografia e password)."
-  },
-  {
-    "domanda": "Qual è la raccomandazione principale della regola 3-2-1 del backup?",
-    "risposte": [
-      "Avere almeno 3 copie totali dei dati, su 2 supporti diversi, con 1 copia mantenuta in un luogo esterno (off-site).",
-      "Eseguire il backup almeno 3 volte al giorno.",
-      "Conservare i dati per 3 anni, 2 mesi e 1 giorno."
-    ],
-    "corretta": "Avere almeno 3 copie totali dei dati, su 2 supporti diversi, con 1 copia mantenuta in un luogo esterno (off-site)."
-  },
-  {
-    "domanda": "Quando è particolarmente consigliato l'uso di una VPN (Virtual Private Network)?",
-    "risposte": [
-      "Quando si usa il computer solo per guardare video in locale.",
-      "Quando si lavora da casa con la propria connessione privata.",
-      "Quando ci si connette a una rete Wi-Fi pubblica non sicura (es. bar, aeroporto)."
-    ],
-    "corretta": "Quando ci si connette a una rete Wi-Fi pubblica non sicura (es. bar, aeroporto)."
+    "corretta": "È gratuita, veloce e sufficiente per la maggior parte delle comunicazioni"
   }
 ]
