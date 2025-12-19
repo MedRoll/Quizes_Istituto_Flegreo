@@ -1,182 +1,152 @@
 [
   {
-    "domanda": "Cosa significa “produttività digitale”?",
-    "risposte": [
-      "Creare contenuti digitali per i social media",
-      "Navigare su internet per cercare informazioni",
-      "Utilizzare strumenti digitali per organizzare e semplificare attività quotidiane"
-    ],
-    "corretta": "Utilizzare strumenti digitali per organizzare e semplificare attività quotidiane"
+    "domanda": "Scenario: Vuoi organizzare le tue idee e appunti in un unico posto accessibile da PC e telefono. Cosa usi?",
+    "risposte": ["Un'app per appunti digitali (es. Evernote)", "Un file di testo sul desktop", "Un foglio di carta"],
+    "corretta": "Un'app per appunti digitali (es. Evernote)"
   },
   {
-    "domanda": "A cosa servono le app per prendere appunti digitali?",
-    "risposte": [
-      "Per scrivere documenti lunghi e complessi come libri o tesi",
-      "Per registrare, organizzare e ritrovare facilmente le informazioni",
-      "Per modificare immagini e creare grafiche"
-    ],
-    "corretta": "Per registrare, organizzare e ritrovare facilmente le informazioni"
+    "domanda": "Scenario: Qual è un vantaggio fondamentale delle app per appunti online rispetto alla carta?",
+    "risposte": ["La sincronizzazione automatica su tutti i dispositivi", "Non consumano batteria", "Scrivono da sole"],
+    "corretta": "La sincronizzazione automatica su tutti i dispositivi"
   },
   {
-    "domanda": "Qual è il vantaggio principale dei task manager digitali?",
-    "risposte": [
-      "Consentono di pianificare attività e monitorare le scadenze",
-      "Permettono di proteggere il computer da virus",
-      "Servono a condividere file multimediali in rete"
-    ],
-    "corretta": "Consentono di pianificare attività e monitorare le scadenze"
+    "domanda": "Scenario: Cerchi un'app che combini appunti, task e database in una sola piattaforma. Quale scegli?",
+    "risposte": ["Notion", "Paint", "Calcolatrice"],
+    "corretta": "Notion"
   },
   {
-    "domanda": "A cosa servono i diagrammi e le infografiche?",
-    "risposte": [
-      "A rendere più veloce la connessione a internet",
-      "A comprimere file di grandi dimensioni",
-      "A presentare concetti e dati in modo visivo e immediato"
-    ],
-    "corretta": "A presentare concetti e dati in modo visivo e immediato"
+    "domanda": "Scenario: Devi gestire un progetto complesso con il tuo team e assegnare compiti. Cosa usi?",
+    "risposte": ["Un Task Manager o software di Project Management", "WhatsApp", "Una mail di gruppo"],
+    "corretta": "Un Task Manager o software di Project Management"
   },
   {
-    "domanda": "Qual è una caratteristica della gestione di progetti digitali?",
-    "risposte": [
-      "Archiviare documenti offline senza accesso a internet",
-      "Coordinare compiti e comunicare con il team in un’unica piattaforma",
-      "Creare giochi o applicazioni per dispositivi mobili"
-    ],
-    "corretta": "Coordinare compiti e comunicare con il team in un’unica piattaforma"
+    "domanda": "Scenario: Trello organizza il lavoro utilizzando...",
+    "risposte": ["Bacheche, schede e liste", "Solo file audio", "Codice binario"],
+    "corretta": "Bacheche, schede e liste"
   },
   {
-    "domanda": "Qual è l’utilità delle note vocali e dei promemoria digitali?",
-    "risposte": [
-      "Aumentare la velocità di connessione di uno smartphone",
-      "Inviare automaticamente messaggi pubblicitari",
-      "Registrare informazioni o ricevere avvisi per attività importanti"
-    ],
-    "corretta": "Registrare informazioni o ricevere avvisi per attività importanti"
+    "domanda": "Scenario: A cosa serve principalmente Todoist?",
+    "risposte": ["A creare liste di attività e monitorare i progressi", "A modificare video", "A fare disegni"],
+    "corretta": "A creare liste di attività e monitorare i progressi"
   },
   {
-    "domanda": "Cos’è il design digitale?",
-    "risposte": [
-      "La gestione delle impostazioni di sicurezza di un computer",
-      "La progettazione di contenuti visivi con strumenti informatici",
-      "La creazione di software di programmazione avanzata"
-    ],
-    "corretta": "La progettazione di contenuti visivi con strumenti informatici"
+    "domanda": "Scenario: Vuoi creare un diagramma di flusso per spiegare un processo. Quale strumento è adatto?",
+    "risposte": ["Lucidchart", "Wordpad", "Spotify"],
+    "corretta": "Lucidchart"
   },
   {
-    "domanda": "Quale principio è importante per un contenuto visivo efficace?",
-    "risposte": [
-      "Utilizzare solo testi lunghi e descrittivi",
-      "Semplicità e chiarezza per facilitare la lettura",
-      "Aggiungere il maggior numero possibile di dettagli tecnici"
-    ],
-    "corretta": "Semplicità e chiarezza per facilitare la lettura"
+    "domanda": "Scenario: Canva è famoso per essere...",
+    "risposte": ["Una piattaforma di design semplice e intuitiva", "Un antivirus", "Un social network"],
+    "corretta": "Una piattaforma di design semplice e intuitiva"
   },
   {
-    "domanda": "Perché è importante usare immagini libere da diritti?",
-    "risposte": [
-      "Per ottenere sempre immagini di qualità professionale",
-      "Perché non richiedono mai l’uso di internet per essere scaricate",
-      "Per rispettare la legge e evitare problemi di copyright"
-    ],
-    "corretta": "Per rispettare la legge e evitare problemi di copyright"
+    "domanda": "Scenario: Qual è l'obiettivo principale della 'Produttività Digitale'?",
+    "risposte": ["Ottimizzare il lavoro e migliorare la gestione del tempo con la tecnologia", "Lavorare di più senza sosta", "Comprare più computer"],
+    "corretta": "Ottimizzare il lavoro e migliorare la gestione del tempo con la tecnologia"
   },
   {
-    "domanda": "A cosa servono i video digitali nella comunicazione?",
-    "risposte": [
-      "A memorizzare dati e archiviare documenti in cloud",
-      "A coinvolgere il pubblico con messaggi dinamici e immediati",
-      "A sostituire completamente le fotografie tradizionali"
-    ],
-    "corretta": "A coinvolgere il pubblico con messaggi dinamici e immediati"
+    "domanda": "Scenario: Microsoft OneNote permette di...",
+    "risposte": ["Organizzare appunti in taccuini e usare la funzione dettato", "Creare solo calcoli", "Gestire le paghe"],
+    "corretta": "Organizzare appunti in taccuini e usare la funzione dettato"
   },
   {
-    "domanda": "Cos’è l’Internet delle Cose (IoT)?",
-    "risposte": [
-      "Una rete di oggetti connessi che raccolgono e scambiano dati",
-      "Una piattaforma di messaggistica istantanea",
-      "Un motore di ricerca per informazioni scientifiche"
-    ],
-    "corretta": "Una rete di oggetti connessi che raccolgono e scambiano dati"
+    "domanda": "Scenario: Se sei uno sviluppatore software, quale tool di gestione progetti userai probabilmente?",
+    "risposte": ["Jira", "Paint", "Audacity"],
+    "corretta": "Jira"
   },
   {
-    "domanda": "Cos’è la Blockchain?",
-    "risposte": [
-      "Un metodo per velocizzare il caricamento delle pagine web",
-      "Un sistema digitale che registra transazioni in modo sicuro e immutabile",
-      "Un programma per creare catene di immagini e grafici"
-    ],
-    "corretta": "Un sistema digitale che registra transazioni in modo sicuro e immutabile"
+    "domanda": "Scenario: Vuoi prendere una nota vocale veloce mentre cammini. Cosa puoi usare?",
+    "risposte": ["Google Keep", "Excel", "Photoshop"],
+    "corretta": "Google Keep"
   },
   {
-    "domanda": "Qual è la differenza tra Realtà Aumentata (AR) e Realtà Virtuale (VR)?",
-    "risposte": [
-      "L’AR integra elementi digitali nel mondo reale, la VR crea ambienti simulati",
-      "L’AR è gratuita, la VR è sempre a pagamento",
-      "L’AR funziona solo con smartphone, la VR solo con computer fissi"
-    ],
-    "corretta": "L’AR integra elementi digitali nel mondo reale, la VR crea ambienti simulati"
+    "domanda": "Scenario: Asana è ideale per...",
+    "risposte": ["La gestione di progetti complessi con i team", "Scrivere romanzi", "Ascoltare musica"],
+    "corretta": "La gestione di progetti complessi con i team"
   },
   {
-    "domanda": "In che modo l’Intelligenza Artificiale viene usata nella vita quotidiana?",
-    "risposte": [
-      "Programmi che controllano esclusivamente il funzionamento dei satelliti",
-      "Assistenti vocali e sistemi che analizzano dati per semplificare attività",
-      "Tecnologie che sostituiscono la connessione Wi-Fi tradizionale"
-    ],
-    "corretta": "Assistenti vocali e sistemi che analizzano dati per semplificare attività"
+    "domanda": "Scenario: Le infografiche servono a...",
+    "risposte": ["Presentare dati e concetti in modo visivo e chiaro", "Nascondere le informazioni", "Scrivere testi lunghi"],
+    "corretta": "Presentare dati e concetti in modo visivo e chiaro"
   },
   {
-    "domanda": "Cosa permette la robotica nel lavoro moderno?",
-    "risposte": [
-      "Creare piattaforme di intrattenimento per smartphone",
-      "Automatizzare processi e collaborare con i lavoratori umani",
-      "Navigare più velocemente su internet durante l’orario di lavoro"
-    ],
-    "corretta": "Automatizzare processi e collaborare con i lavoratori umani"
+    "domanda": "Scenario: MindMeister è uno strumento specifico per...",
+    "risposte": ["Creare mappe mentali", "Montare video", "Gestire email"],
+    "corretta": "Creare mappe mentali"
   },
   {
-    "domanda": "Perché è importante la sicurezza nelle transazioni digitali?",
-    "risposte": [
-      "Per aumentare la durata della batteria dei dispositivi",
-      "Per avere accesso gratuito a tutti i siti web",
-      "Per proteggere i dati personali e prevenire truffe online"
-    ],
-    "corretta": "Per proteggere i dati personali e prevenire truffe online"
+    "domanda": "Scenario: Cosa permette di fare Basecamp?",
+    "risposte": ["Gestire chat, file e attività di progetto in un unico posto", "Solo videochiamate", "Giocare online"],
+    "corretta": "Gestire chat, file e attività di progetto in un unico posto"
   },
   {
-    "domanda": "Cos’è una Smart Home?",
-    "risposte": [
-      "Una modalità di risparmio energetico degli smartphone",
-      "Una piattaforma online per acquistare prodotti di arredamento",
-      "Una casa con dispositivi connessi e controllabili tramite internet"
-    ],
-    "corretta": "Una casa con dispositivi connessi e controllabili tramite internet"
+    "domanda": "Scenario: I Task Manager aiutano a ridurre...",
+    "risposte": ["La confusione e il rischio di dimenticare scadenze", "Lo spazio sul disco", "La velocità di internet"],
+    "corretta": "La confusione e il rischio di dimenticare scadenze"
   },
   {
-    "domanda": "Come possono le tecnologie digitali aiutare la salute?",
-    "risposte": [
-      "Con software che aumentano la qualità delle immagini fotografiche",
-      "Con dispositivi che monitorano parametri vitali e app per il benessere",
-      "Con programmi che eliminano automaticamente i virus dal PC"
-    ],
-    "corretta": "Con dispositivi che monitorano parametri vitali e app per il benessere"
+    "domanda": "Scenario: Per coordinare e collaborare tra team diversi, è utile...",
+    "risposte": ["La gestione progetti digitale", "L'uso esclusivo del telefono", "Il fax"],
+    "corretta": "La gestione progetti digitale"
   },
   {
-    "domanda": "Cosa significa etica digitale?",
-    "risposte": [
-      "Evitare di installare nuove applicazioni sugli smartphone",
-      "Utilizzare le tecnologie in modo rispettoso e responsabile verso gli altri",
-      "Usare internet soltanto per scopi lavorativi e scolastici"
-    ],
-    "corretta": "Utilizzare le tecnologie in modo rispettoso e responsabile verso gli altri"
+    "domanda": "Scenario: Evernote consente di aggiungere agli appunti...",
+    "risposte": ["Immagini, testo e note vocali", "Solo testo semplice", "Solo numeri"],
+    "corretta": "Immagini, testo e note vocali"
   },
   {
-    "domanda": "Cos’è il cyberbullismo?",
-    "risposte": [
-      "Una tecnica digitale per rendere più sicuri i pagamenti online",
-      "Un comportamento aggressivo e ripetuto tramite internet o social media",
-      "Un metodo di protezione dei dati attraverso password complesse"
-    ],
-    "corretta": "Un comportamento aggressivo e ripetuto tramite internet o social media"
+    "domanda": "Scenario: Monday.com offre funzionalità per...",
+    "risposte": ["Assegnazione compiti e monitoraggio risultati", "Cucinare", "Viaggiare"],
+    "corretta": "Assegnazione compiti e monitoraggio risultati"
+  },
+  {
+    "domanda": "Scenario: Qual è un vantaggio dei promemoria digitali?",
+    "risposte": ["Impostare avvisi sonori per non dimenticare appuntamenti", "Sono più difficili da usare dei post-it", "Non si possono modificare"],
+    "corretta": "Impostare avvisi sonori per non dimenticare appuntamenti"
+  },
+  {
+    "domanda": "Scenario: Microsoft To-Do serve principalmente a...",
+    "risposte": ["Impostare promemoria e liste di cose da fare", "Scrivere codice", "Modificare foto"],
+    "corretta": "Impostare promemoria e liste di cose da fare"
+  },
+  {
+    "domanda": "Scenario: Usare strumenti digitali per la produttività aumenta...",
+    "risposte": ["La qualità del lavoro e riduce gli errori", "Lo stress", "Il consumo di carta"],
+    "corretta": "La qualità del lavoro e riduce gli errori"
+  },
+  {
+    "domanda": "Scenario: Le app di 'Note Vocali' sono utili per...",
+    "risposte": ["Registrare idee rapide che richiedono risposta immediata", "Cantare canzoni intere", "Fare video"],
+    "corretta": "Registrare idee rapide che richiedono risposta immediata"
+  },
+  {
+    "domanda": "Scenario: Notion integra anche funzionalità di...",
+    "risposte": ["Intelligenza Artificiale (AI)", "Realtà Virtuale", "Stampa 3D"],
+    "corretta": "Intelligenza Artificiale (AI)"
+  },
+  {
+    "domanda": "Scenario: I diagrammi di flusso aiutano a...",
+    "risposte": ["Visualizzare processi e logiche complesse", "Disegnare paesaggi", "Scrivere musica"],
+    "corretta": "Visualizzare processi e logiche complesse"
+  },
+  {
+    "domanda": "Scenario: Un vantaggio di organizzare i compiti visivamente è...",
+    "risposte": ["Avere subito chiaro il flusso di lavoro e le priorità", "Perdere tempo a colorare", "Non serve a nulla"],
+    "corretta": "Avere subito chiaro il flusso di lavoro e le priorità"
+  },
+  {
+    "domanda": "Scenario: Collaborare in tempo reale su un documento significa...",
+    "risposte": ["Più persone lavorano allo stesso file contemporaneamente", "Uno lavora e l'altro guarda", "Inviarsi il file via mail 10 volte"],
+    "corretta": "Più persone lavorano allo stesso file contemporaneamente"
+  },
+  {
+    "domanda": "Scenario: Per monitorare lo stato di avanzamento di un progetto si usano...",
+    "risposte": ["Strumenti di monitoraggio e reportistica (come nelle app di gestione progetti)", "Il calendario cartaceo", "La memoria"],
+    "corretta": "Strumenti di monitoraggio e reportistica (come nelle app di gestione progetti)"
+  },
+  {
+    "domanda": "Scenario: L'accessibilità da qualsiasi dispositivo è una caratteristica chiave del...",
+    "risposte": ["Cloud e delle app di produttività moderne", "Vecchio PC fisso", "Quaderno"],
+    "corretta": "Cloud e delle app di produttività moderne"
   }
 ]
