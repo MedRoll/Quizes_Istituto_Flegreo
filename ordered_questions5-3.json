@@ -1,202 +1,152 @@
 [
   {
     "domanda": "Le app per appunti digitali permettono di aggiungere immagini e link.",
-    "risposte": [
-      "Vero",
-      "Falso"
-    ],
+    "risposte": ["Vero", "Falso"],
     "corretta": "Vero"
   },
   {
-    "domanda": "I task manager servono principalmente a proteggere il computer dai virus.",
-    "risposte": [
-      "Vero",
-      "Falso"
-    ],
+    "domanda": "Todoist è un software per il montaggio video.",
+    "risposte": ["Vero", "Falso"],
     "corretta": "Falso"
   },
   {
-    "domanda": "Le infografiche aiutano a rendere più comprensibili concetti complessi.",
-    "risposte": [
-      "Vero",
-      "Falso"
-    ],
+    "domanda": "Canva offre template predefiniti per chi non è esperto di design.",
+    "risposte": ["Vero", "Falso"],
     "corretta": "Vero"
   },
   {
-    "domanda": "La gestione di progetti digitali permette il coordinamento tra i membri di un team.",
-    "risposte": [
-      "Vero",
-      "Falso"
-    ],
-    "corretta": "Vero"
-  },
-  {
-    "domanda": "I promemoria digitali possono essere usati solo sugli smartphone più recenti.",
-    "risposte": [
-      "Vero",
-      "Falso"
-    ],
+    "domanda": "L'Internet of Things (IoT) riguarda solo i computer portatili.",
+    "risposte": ["Vero", "Falso"],
     "corretta": "Falso"
   },
   {
-    "domanda": "Il design digitale richiede sempre competenze avanzate di Photoshop.",
-    "risposte": [
-      "Vero",
-      "Falso"
-    ],
+    "domanda": "La Blockchain è un registro centralizzato gestito da una banca.",
+    "risposte": ["Vero", "Falso"],
     "corretta": "Falso"
   },
   {
-    "domanda": "La semplicità è un principio importante nel design visivo.",
-    "risposte": [
-      "Vero",
-      "Falso"
-    ],
+    "domanda": "Audacity è uno strumento gratuito per l'editing audio.",
+    "risposte": ["Vero", "Falso"],
     "corretta": "Vero"
   },
   {
-    "domanda": "Le immagini libere da diritti evitano problemi legali di copyright.",
-    "risposte": [
-      "Vero",
-      "Falso"
-    ],
-    "corretta": "Vero"
-  },
-  {
-    "domanda": "Il video è uno strumento efficace di comunicazione digitale.",
-    "risposte": [
-      "Vero",
-      "Falso"
-    ],
-    "corretta": "Vero"
-  },
-  {
-    "domanda": "Le GIF sono immagini animate che si ripetono in loop.",
-    "risposte": [
-      "Vero",
-      "Falso"
-    ],
-    "corretta": "Vero"
-  },
-  {
-    "domanda": "Un podcast è un contenuto audio distribuito online.",
-    "risposte": [
-      "Vero",
-      "Falso"
-    ],
-    "corretta": "Vero"
-  },
-  {
-    "domanda": "L’IoT collega dispositivi e oggetti alla rete per scambiare dati.",
-    "risposte": [
-      "Vero",
-      "Falso"
-    ],
-    "corretta": "Vero"
-  },
-  {
-    "domanda": "La blockchain è sempre controllata da un’autorità centrale.",
-    "risposte": [
-      "Vero",
-      "Falso"
-    ],
+    "domanda": "La Realtà Virtuale (VR) sovrappone immagini al mondo reale senza oscurarlo.",
+    "risposte": ["Vero", "Falso"],
     "corretta": "Falso"
   },
   {
-    "domanda": "La Realtà Virtuale crea ambienti immersivi simulati.",
-    "risposte": [
-      "Vero",
-      "Falso"
-    ],
+    "domanda": "Notion permette di creare database oltre a semplici appunti.",
+    "risposte": ["Vero", "Falso"],
     "corretta": "Vero"
   },
   {
-    "domanda": "L’Intelligenza Artificiale non viene mai usata in campo medico.",
-    "risposte": [
-      "Vero",
-      "Falso"
-    ],
+    "domanda": "Unsplash è un sito per scaricare musica a pagamento.",
+    "risposte": ["Vero", "Falso"],
     "corretta": "Falso"
   },
   {
-    "domanda": "La robotica collaborativa prevede l’uso di robot insieme agli esseri umani.",
-    "risposte": [
-      "Vero",
-      "Falso"
-    ],
+    "domanda": "Il contrasto nel design aiuta a mettere in risalto gli elementi importanti.",
+    "risposte": ["Vero", "Falso"],
     "corretta": "Vero"
   },
   {
-    "domanda": "L’autenticazione a due fattori aumenta la sicurezza online.",
-    "risposte": [
-      "Vero",
-      "Falso"
-    ],
+    "domanda": "Asana è uno strumento per la gestione di progetti in team.",
+    "risposte": ["Vero", "Falso"],
     "corretta": "Vero"
   },
   {
-    "domanda": "Una Smart Home non può contribuire al risparmio energetico.",
-    "risposte": [
-      "Vero",
-      "Falso"
-    ],
+    "domanda": "Clipchamp serve per creare fogli di calcolo.",
+    "risposte": ["Vero", "Falso"],
     "corretta": "Falso"
   },
   {
-    "domanda": "Gli smartwatch possono monitorare battito cardiaco e sonno.",
-    "risposte": [
-      "Vero",
-      "Falso"
-    ],
+    "domanda": "I 'Smart Contracts' sono un'applicazione della tecnologia Blockchain.",
+    "risposte": ["Vero", "Falso"],
     "corretta": "Vero"
   },
   {
-    "domanda": "Le app di meditazione come Headspace aiutano il benessere psicologico.",
-    "risposte": [
-      "Vero",
-      "Falso"
-    ],
+    "domanda": "Microsoft OneNote supporta la funzione di dettatura.",
+    "risposte": ["Vero", "Falso"],
     "corretta": "Vero"
   },
   {
-    "domanda": "Coursera e Udemy sono esempi di piattaforme per l’apprendimento online.",
-    "risposte": [
-      "Vero",
-      "Falso"
-    ],
-    "corretta": "Vero"
-  },
-  {
-    "domanda": "Il cyberbullismo consiste nell’uso positivo dei social media.",
-    "risposte": [
-      "Vero",
-      "Falso"
-    ],
+    "domanda": "L'automazione elimina la necessità di creatività umana.",
+    "risposte": ["Vero", "Falso"],
     "corretta": "Falso"
   },
   {
-    "domanda": "Il digital divide riguarda la disparità di accesso alle tecnologie digitali.",
-    "risposte": [
-      "Vero",
-      "Falso"
-    ],
+    "domanda": "Figma è utilizzato principalmente per il design di interfacce (UI).",
+    "risposte": ["Vero", "Falso"],
     "corretta": "Vero"
   },
   {
-    "domanda": "L’over-sharing consiste nel condividere troppe informazioni personali online.",
-    "risposte": [
-      "Vero",
-      "Falso"
-    ],
+    "domanda": "Google Keep è ideale per progetti complessi a lungo termine.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "I podcast possono essere distribuiti su piattaforme come Spotify.",
+    "risposte": ["Vero", "Falso"],
     "corretta": "Vero"
   },
   {
-    "domanda": "La dipendenza digitale può avere impatti negativi sul benessere psicologico.",
-    "risposte": [
-      "Vero",
-      "Falso"
-    ],
+    "domanda": "Lucidchart serve a creare diagrammi di flusso.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "L'IoT non ha applicazioni nelle 'Smart Cities'.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "La sincronizzazione cloud permette l'accesso ai file da più dispositivi.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Usare molte font diverse rende il design più professionale.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "Jira è uno strumento pensato per i team di sviluppo software.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Le GIF sono immagini statiche che non si muovono mai.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "MindMeister è utile per creare mappe mentali.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "È legale usare qualsiasi immagine trovata su Google per scopi commerciali.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "La Realtà Aumentata (AR) è usata nel gioco Pokémon Go.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Trello visualizza il lavoro solo tramite righe di codice.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "L'Intelligenza Artificiale può analizzare grandi volumi di dati.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Basecamp integra chat e gestione file in un unico posto.",
+    "risposte": ["Vero", "Falso"],
     "corretta": "Vero"
   }
 ]
