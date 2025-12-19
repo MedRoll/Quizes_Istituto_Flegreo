@@ -1,182 +1,152 @@
 [
   {
-    "domanda": "Qual è un vantaggio delle app per prendere appunti online?",
-    "risposte": [
-      "Si cancellano automaticamente dopo 24 ore",
-      "Permettono di accedere alle note da più dispositivi",
-      "Funzionano solo senza connessione internet"
-    ],
-    "corretta": "Permettono di accedere alle note da più dispositivi"
-  },
-  {
-    "domanda": "Quale tra questi è un task manager?",
-    "risposte": [
-      "Spotify",
-      "Trello",
-      "Instagram"
-    ],
-    "corretta": "Trello"
-  },
-  {
-    "domanda": "Per cosa viene utilizzata principalmente la piattaforma Lucidchart?",
-    "risposte": [
-      "Per modificare fotografie",
-      "Per creare diagrammi di flusso e mappe concettuali",
-      "Per registrare podcast"
-    ],
-    "corretta": "Per creare diagrammi di flusso e mappe concettuali"
-  },
-  {
-    "domanda": "Qual è un esempio di software per la gestione di progetti digitali?",
-    "risposte": [
-      "Basecamp",
-      "TikTok",
-      "Photoshop"
-    ],
-    "corretta": "Basecamp"
-  },
-  {
-    "domanda": "Qual è una caratteristica dei promemoria digitali?",
-    "risposte": [
-      "Permettono di impostare avvisi per attività importanti",
-      "Creano automaticamente grafici e statistiche",
-      "Funzionano solo su computer fissi"
-    ],
-    "corretta": "Permettono di impostare avvisi per attività importanti"
-  },
-  {
-    "domanda": "Quale piattaforma è utile per creare contenuti visivi senza competenze avanzate di design?",
-    "risposte": [
-      "Canva",
-      "Excel",
-      "Word"
-    ],
+    "domanda": "Scenario: Vuoi creare un post per i social media ma non sei un grafico. Cosa usi?",
+    "risposte": ["Canva", "Photoshop avanzato", "Blocco note"],
     "corretta": "Canva"
   },
   {
-    "domanda": "Quale principio è fondamentale per un contenuto visivo efficace?",
-    "risposte": [
-      "Utilizzare troppo testo",
-      "Mantenere semplicità e chiarezza",
-      "Usare immagini sfocate"
-    ],
-    "corretta": "Mantenere semplicità e chiarezza"
+    "domanda": "Scenario: Figma è uno strumento pensato principalmente per...",
+    "risposte": ["Progettazione di interfacce utente (UI) e collaborazione", "Fotoritocco base", "Scrivere testi"],
+    "corretta": "Progettazione di interfacce utente (UI) e collaborazione"
   },
   {
-    "domanda": "Quale piattaforma fornisce immagini gratuite e libere da diritti?",
-    "risposte": [
-      "Unsplash",
-      "Facebook",
-      "LinkedIn"
-    ],
-    "corretta": "Unsplash"
+    "domanda": "Scenario: Qual è un principio fondamentale del design visivo?",
+    "risposte": ["Semplicità (meno è meglio)", "Riempire ogni spazio vuoto", "Usare 10 font diversi"],
+    "corretta": "Semplicità (meno è meglio)"
   },
   {
-    "domanda": "Qual è un software online che permette di montare video facilmente?",
-    "risposte": [
-      "Clipchamp",
-      "Excel",
-      "Slack"
-    ],
-    "corretta": "Clipchamp"
+    "domanda": "Scenario: Perché il contrasto è importante nel design?",
+    "risposte": ["Mette in risalto gli elementi importanti e migliora la leggibilità", "Rende tutto uguale", "È solo estetico"],
+    "corretta": "Mette in risalto gli elementi importanti e migliora la leggibilità"
   },
   {
-    "domanda": "Quale strumento permette di creare GIF animate?",
-    "risposte": [
-      "GIF Maker",
-      "Word",
-      "PowerPoint"
-    ],
-    "corretta": "GIF Maker"
+    "domanda": "Scenario: Dove puoi trovare immagini gratuite e libere da diritti d'autore?",
+    "risposte": ["Su siti come Unsplash, Pexels, Pixabay", "Su Google Immagini a caso", "Rubandole da altri siti"],
+    "corretta": "Su siti come Unsplash, Pexels, Pixabay"
   },
   {
-    "domanda": "Quale software gratuito è spesso usato per registrare podcast?",
-    "risposte": [
-      "Audacity",
-      "Photoshop",
-      "Notion"
-    ],
+    "domanda": "Scenario: Vuoi modificare un video in modo semplice e veloce online. Cosa usi?",
+    "risposte": ["Clipchamp o InShot", "Premiere Pro", "Word"],
+    "corretta": "Clipchamp o InShot"
+  },
+  {
+    "domanda": "Scenario: Cos'è una GIF?",
+    "risposte": ["Un'immagine animata in loop", "Un virus", "Un file audio"],
+    "corretta": "Un'immagine animata in loop"
+  },
+  {
+    "domanda": "Scenario: Quale software gratuito puoi usare per registrare ed editare un podcast?",
+    "risposte": ["Audacity", "Excel", "PowerPoint"],
     "corretta": "Audacity"
   },
   {
-    "domanda": "Cos’è l’Internet delle Cose (IoT)?",
-    "risposte": [
-      "Un tipo di social network",
-      "Una rete di oggetti connessi che scambiano dati",
-      "Un videogioco multiplayer"
-    ],
-    "corretta": "Una rete di oggetti connessi che scambiano dati"
+    "domanda": "Scenario: L'Internet of Things (IoT) collega...",
+    "risposte": ["Dispositivi fisici (es. elettrodomestici) a internet", "Solo computer", "Persone senza internet"],
+    "corretta": "Dispositivi fisici (es. elettrodomestici) a internet"
   },
   {
-    "domanda": "Quale tecnologia consente di creare registri digitali sicuri e immutabili?",
-    "risposte": [
-      "Blockchain",
-      "Photoshop",
-      "VPN"
-    ],
+    "domanda": "Scenario: Un esempio di applicazione IoT domestica è...",
+    "risposte": ["Il termostato intelligente", "Il libro cartaceo", "La sedia di legno"],
+    "corretta": "Il termostato intelligente"
+  },
+  {
+    "domanda": "Scenario: Cos'è la Blockchain?",
+    "risposte": ["Un registro digitale decentralizzato, sicuro e immutabile", "Una catena di ferro", "Un tipo di banca"],
+    "corretta": "Un registro digitale decentralizzato, sicuro e immutabile"
+  },
+  {
+    "domanda": "Scenario: Le criptovalute come il Bitcoin usano la Blockchain per...",
+    "risposte": ["Garantire transazioni sicure senza intermediari", "Stampare soldi", "Inviare mail"],
+    "corretta": "Garantire transazioni sicure senza intermediari"
+  },
+  {
+    "domanda": "Scenario: La Realtà Aumentata (AR) consiste nel...",
+    "risposte": ["Sovrapporre elementi digitali al mondo reale (es. Pokémon Go)", "Entrare in un mondo totalmente finto", "Guardare la TV"],
+    "corretta": "Sovrapporre elementi digitali al mondo reale (es. Pokémon Go)"
+  },
+  {
+    "domanda": "Scenario: La Realtà Virtuale (VR) richiede l'uso di...",
+    "risposte": ["Visori per immergersi completamente in un ambiente simulato", "Solo uno smartphone", "Occhiali da sole"],
+    "corretta": "Visori per immergersi completamente in un ambiente simulato"
+  },
+  {
+    "domanda": "Scenario: Come sta cambiando il lavoro grazie all'Automazione e all'IA?",
+    "risposte": ["L'IA si occupa di compiti ripetitivi, lasciando all'uomo quelli creativi", "L'IA licenzia tutti", "Non cambia nulla"],
+    "corretta": "L'IA si occupa di compiti ripetitivi, lasciando all'uomo quelli creativi"
+  },
+  {
+    "domanda": "Scenario: Freepik e Flaticon sono risorse utili per...",
+    "risposte": ["Trovare vettori e icone grafiche", "Scaricare film", "Trovare musica"],
+    "corretta": "Trovare vettori e icone grafiche"
+  },
+  {
+    "domanda": "Scenario: Per creare un buon podcast è fondamentale...",
+    "risposte": ["La qualità del suono e un buon microfono", "Parlare velocissimo", "Non avere argomenti"],
+    "corretta": "La qualità del suono e un buon microfono"
+  },
+  {
+    "domanda": "Scenario: Nelle 'Smart Cities', i sensori IoT servono a...",
+    "risposte": ["Monitorare traffico e qualità dell'aria", "Spiare le conversazioni", "Decorare le strade"],
+    "corretta": "Monitorare traffico e qualità dell'aria"
+  },
+  {
+    "domanda": "Scenario: I 'Contratti Intelligenti' (Smart Contracts) sono un'applicazione della...",
+    "risposte": ["Blockchain", "Stampante 3D", "Realtà Virtuale"],
     "corretta": "Blockchain"
   },
   {
-    "domanda": "Qual è una caratteristica della Realtà Aumentata (AR)?",
-    "risposte": [
-      "Sovrappone elementi digitali al mondo reale",
-      "Funziona solo in spazi bui",
-      "Sostituisce completamente la realtà fisica"
-    ],
-    "corretta": "Sovrappone elementi digitali al mondo reale"
+    "domanda": "Scenario: Il 'Remote Work' (Lavoro da remoto) è facilitato da...",
+    "risposte": ["Cloud computing e software di collaborazione", "Fax e posta ordinaria", "Viaggi in aereo"],
+    "corretta": "Cloud computing e software di collaborazione"
   },
   {
-    "domanda": "Quale assistente virtuale utilizza l’Intelligenza Artificiale?",
-    "risposte": [
-      "Siri",
-      "Paint",
-      "Excel"
-    ],
-    "corretta": "Siri"
+    "domanda": "Scenario: Quale nuova figura professionale sta emergendo con le nuove tecnologie?",
+    "risposte": ["Sviluppatore AR/VR o esperto Blockchain", "Scrivano a mano", "Operatore del telegrafo"],
+    "corretta": "Sviluppatore AR/VR o esperto Blockchain"
   },
   {
-    "domanda": "Qual è un esempio di robotica collaborativa?",
-    "risposte": [
-      "Un robot che lavora fianco a fianco con un umano",
-      "Un robot che sostituisce completamente il medico",
-      "Un videogioco con avatar digitali"
-    ],
-    "corretta": "Un robot che lavora fianco a fianco con un umano"
+    "domanda": "Scenario: Scegliere il font giusto (Tipografia) è importante per...",
+    "risposte": ["La leggibilità e il tono del messaggio", "Usare più inchiostro", "Confondere il lettore"],
+    "corretta": "La leggibilità e il tono del messaggio"
   },
   {
-    "domanda": "Quale misura di sicurezza è utile per proteggere le transazioni online?",
-    "risposte": [
-      "Autenticazione a due fattori (2FA)",
-      "Scaricare software casuali",
-      "Disattivare gli aggiornamenti"
-    ],
-    "corretta": "Autenticazione a due fattori (2FA)"
+    "domanda": "Scenario: GarageBand è un software per...",
+    "risposte": ["Creazione e editing audio (spesso usato per podcast su Mac)", "Disegno tecnico", "Scrittura codici"],
+    "corretta": "Creazione e editing audio (spesso usato per podcast su Mac)"
   },
   {
-    "domanda": "Quale dispositivo appartiene alla Smart Home?",
-    "risposte": [
-      "Termostato intelligente",
-      "Calcolatrice scientifica",
-      "Stampante 3D"
-    ],
-    "corretta": "Termostato intelligente"
+    "domanda": "Scenario: L'Industria 4.0 utilizza l'IoT per...",
+    "risposte": ["Monitorare i processi produttivi in tempo reale", "Sostituire tutti gli operai con robot giocattolo", "Fare pause caffè"],
+    "corretta": "Monitorare i processi produttivi in tempo reale"
   },
   {
-    "domanda": "Quale tecnologia digitale è utile per monitorare i parametri vitali?",
-    "risposte": [
-      "Smartwatch",
-      "Word",
-      "Excel"
-    ],
-    "corretta": "Smartwatch"
+    "domanda": "Scenario: Crello è uno strumento simile a...",
+    "risposte": ["Canva (per design e animazioni)", "Word", "Excel"],
+    "corretta": "Canva (per design e animazioni)"
   },
   {
-    "domanda": "Cos’è il cyberbullismo?",
-    "risposte": [
-      "Un comportamento aggressivo online",
-      "Un antivirus avanzato",
-      "Un sistema di crittografia"
-    ],
-    "corretta": "Un comportamento aggressivo online"
+    "domanda": "Scenario: Un'immagine di qualità in un design deve essere...",
+    "risposte": ["Chiara, definita e pertinente", "Sgranata e buia", "A caso"],
+    "corretta": "Chiara, definita e pertinente"
+  },
+  {
+    "domanda": "Scenario: La decentralizzazione è una caratteristica chiave...",
+    "risposte": ["Della Blockchain", "Di Microsoft Word", "Delle email"],
+    "corretta": "Della Blockchain"
+  },
+  {
+    "domanda": "Scenario: Animaker permette di creare...",
+    "risposte": ["Animazioni professionali tramite template", "Siti web statici", "Fogli di calcolo"],
+    "corretta": "Animazioni professionali tramite template"
+  },
+  {
+    "domanda": "Scenario: L'intelligenza Artificiale (IA) analizza...",
+    "risposte": ["Grandi volumi di dati per trovare pattern o automatizzare task", "Solo testi brevi", "Niente"],
+    "corretta": "Grandi volumi di dati per trovare pattern o automatizzare task"
+  },
+  {
+    "domanda": "Scenario: Usare immagini protette da copyright senza permesso...",
+    "risposte": ["Può causare problemi legali", "È sempre consentito", "Nessuno se ne accorge"],
+    "corretta": "Può causare problemi legali"
   }
 ]
